@@ -30,6 +30,18 @@
         }
     }
 
+    // Function to get the latest contribution date from a cluster
+    function getLatestContributionDate(cluster) {
+        let maxDate = null;
+        cluster.contributions.forEach(c => {
+            const date = new Date(c.date.replace(/-/g, '/'));
+            if (!maxDate || date > maxDate) {
+                maxDate = date;
+            }
+        });
+        return maxDate;
+    }
+
     // Fetch the processed data once the component is mounted in the browser
     onMount(async () => {
         try {
@@ -39,6 +51,13 @@
                 clusterEvents = data.clusterEvents || [];
                 pacContributions = data.pacContributions || [];
                 calculateLastUpdated(clusterEvents, pacContributions);
+
+                // Sort clusters by the latest contribution date
+                clusterEvents.sort((a, b) => {
+                    const dateA = getLatestContributionDate(a);
+                    const dateB = getLatestContributionDate(b);
+                    return dateB - dateA;
+                });
             } else {
                 console.error("Failed to load formatted contribution data");
             }
@@ -207,7 +226,7 @@
                                                         </div>
                                                         <div class="text-right">
                                                             <p class="font-semibold text-gray-800">{formatCurrency(c.amount)}</p>
-                                                            <p class="text-xs text-gray-400">{new Date(c.date.replace(/-/g, '/')).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</p>
+                                                            <p class="text-xs text-gray-400">{new Date(c.date.replace(/-/g, '/')).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</p>
                                                         </div>
                                                     </li>
                                                 </a>
