@@ -10,6 +10,13 @@
     let lastUpdated = "";
     let expandedItems = {}; // Tracks expanded state for all collapsible sections
 
+     // Request a weekday along with a long date
+    const dateOptions = {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+    };
+
     // Function to calculate the latest contribution date
     function calculateLastUpdated(clusters, pacs) {
         let maxDate = null;
@@ -26,7 +33,7 @@
         });
 
         if (maxDate) {
-            lastUpdated = maxDate.toLocaleString();
+            lastUpdated = maxDate.toLocaleString('en-US', dateOptions);
         }
     }
 
@@ -177,7 +184,8 @@
         
         <header class="mb-6">
             <h1 class="text-3xl font-bold text-gray-900">Tech Contributions Monitor</h1>
-            <p class="text-sm text-gray-500 mt-1">Last Updated: {lastUpdated}</p>
+            <p class="text-sm text-gray-500 mt-1">Last Recorded Contribution Date: {lastUpdated}</p>
+            <p class="text-sm text-gray-500 mt-1">created by <a class="underline" href="https://gautamhathi.com">Gautam Hathi</a></p>
         </header>
 
         <div class="border-b border-gray-200">
