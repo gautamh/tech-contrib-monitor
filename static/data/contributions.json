@@ -81535,7 +81535,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "CORNYN VICTORY COMMITTEE",
       "candidate_ids": [
         "S2WI00268",
         "S4WI00256"
@@ -84343,7 +84343,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HOGAN VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "S4MD00483"
       ],
@@ -89507,8 +89507,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-08-02",
-      "last_file_date": "2025-10-14",
+      "last_f1_date": "2025-10-30",
+      "last_file_date": "2025-10-30",
       "name": "RHODE ISLAND DEMOCRATIC STATE COMMITTEE",
       "organization_type": null,
       "organization_type_full": null,
@@ -108524,7 +108524,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HORSFORD VICTORY FUND 2020",
+      "affiliated_committee_name": "NV PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LAS VEGAS",
       "committee_id": "C00208991",
@@ -109181,8 +109181,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-08-02",
-      "last_file_date": "2025-10-14",
+      "last_f1_date": "2025-10-30",
+      "last_file_date": "2025-10-30",
       "name": "RHODE ISLAND DEMOCRATIC STATE COMMITTEE",
       "organization_type": null,
       "organization_type_full": null,
@@ -114368,8 +114368,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-08-02",
-      "last_file_date": "2025-10-14",
+      "last_f1_date": "2025-10-30",
+      "last_file_date": "2025-10-30",
       "name": "RHODE ISLAND DEMOCRATIC STATE COMMITTEE",
       "organization_type": null,
       "organization_type_full": null,
@@ -114557,8 +114557,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-08-02",
-      "last_file_date": "2025-10-14",
+      "last_f1_date": "2025-10-30",
+      "last_file_date": "2025-10-30",
       "name": "RHODE ISLAND DEMOCRATIC STATE COMMITTEE",
       "organization_type": null,
       "organization_type_full": null,
@@ -119292,7 +119292,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "CONNOLLY VICTORY FUND",
+      "affiliated_committee_name": "KAINE ACTION FUND",
       "candidate_ids": [],
       "city": "RICHMOND",
       "committee_id": "C00155952",
@@ -119479,7 +119479,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "CONNOLLY VICTORY FUND",
+      "affiliated_committee_name": "KAINE ACTION FUND",
       "candidate_ids": [],
       "city": "RICHMOND",
       "committee_id": "C00155952",
@@ -121198,7 +121198,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HORSFORD VICTORY FUND 2020",
+      "affiliated_committee_name": "NV PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LAS VEGAS",
       "committee_id": "C00208991",
@@ -121379,7 +121379,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HORSFORD VICTORY FUND 2020",
+      "affiliated_committee_name": "NV PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LAS VEGAS",
       "committee_id": "C00208991",
