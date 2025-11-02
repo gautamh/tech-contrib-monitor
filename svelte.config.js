@@ -1,6 +1,7 @@
 import adapter from '@sveltejs/adapter-static';
 
 const dev = process.argv.includes('dev');
+const isTest = process.env.CI === 'true';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -12,7 +13,7 @@ const config = {
             precompress: false
         }),
         paths: {
-            base: dev ? '' : '/tech-contrib-site'
+            base: dev || isTest ? '' : '/tech-contrib-site'
         }
     }
 };
