@@ -171,7 +171,7 @@
 </script>
 
 <svelte:head>
-    <title>Campaign Finance Activity Feed</title>
+    <title>Tech Contributions Monitor</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -201,7 +201,7 @@
 
         <!-- Executive Clusters (Individual Contributions) -->
         <div id="feed-container-clusters" class="mt-6 space-y-6 hidden">
-            <p class="text-gray-800">Sometimes a number of executives from a big tech company all donate to the same politician or committee. These clusters of contributions might indicate that the execs are sending a statement on behalf of their employer rather than make a contribution based on their own political preferences:</p>
+            <p class="text-gray-800">Sometimes a number of executives from a big tech company all contribute to the same politician or committee. These clusters of contributions might indicate that the execs are sending a statement on behalf of their employer rather than make a contribution based on their own political preferences:</p>
             {#if filteredClusterEvents.length > 0}
                 {#each filteredClusterEvents as item, i}
                     {@const key = `cluster-${i}`}
@@ -254,7 +254,7 @@
 
         <!-- Corporate PACs (Summarized) -->
         <div id="feed-container-pacs" class="mt-6 space-y-6">
-            <p class="text-gray-800">Here are recently filed contributions by big tech company PACs to federal candidates and officeholders:</p>
+            <p class="text-gray-800">Here are recently filed political contributions by big tech company PACs to federal candidates and officeholders:</p>
              {#if pacContributions.length > 0}
                 {#each groupByMonth(pacContributions) as [month, contributionsInMonth]}
                     <div class="relative py-2">
