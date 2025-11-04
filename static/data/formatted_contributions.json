@@ -4,10 +4,10 @@
       "recipientName": "HARRIS VICTORY FUND",
       "recipientParty": "",
       "isExtreme": false,
-      "totalAmount": 973000.0,
-      "donorCount": 2,
+      "totalAmount": 978000.0,
+      "donorCount": 3,
       "employer": "MICROSOFT",
-      "timeframe": "over 135 days",
+      "timeframe": "over 407 days",
       "contributions": [
         {
           "donorName": "SCOTT, JAMES KEVIN",
@@ -29,6 +29,13 @@
           "amount": 50000.0,
           "date": "2024-05-07",
           "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202407159661041939"
+        },
+        {
+          "donorName": "PALMER, JONATHAN",
+          "donorInfo": "ATTORNEY",
+          "amount": 5000.0,
+          "date": "2023-08-09",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202310159598409053"
         }
       ]
     },
@@ -606,6 +613,52 @@
       ]
     },
     {
+      "recipientName": "HARRIS FOR PRESIDENT",
+      "recipientParty": "DEMOCRATIC PARTY",
+      "isExtreme": false,
+      "totalAmount": 11647.0,
+      "donorCount": 3,
+      "employer": "MICROSOFT",
+      "timeframe": "over 398 days",
+      "contributions": [
+        {
+          "donorName": "SMITH, BRADLEY",
+          "donorInfo": "MARKETING",
+          "amount": 47.0,
+          "date": "2024-09-10",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202410209700191913"
+        },
+        {
+          "donorName": "ALTHOFF, JUDSON",
+          "donorInfo": "EXECUTIVE",
+          "amount": 3300.0,
+          "date": "2024-05-07",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202406209652440958"
+        },
+        {
+          "donorName": "ALTHOFF, JUDSON",
+          "donorInfo": "EXECUTIVE",
+          "amount": 3300.0,
+          "date": "2024-05-07",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202406209652440957"
+        },
+        {
+          "donorName": "PALMER, JONATHAN",
+          "donorInfo": "ATTORNEY",
+          "amount": 1700.0,
+          "date": "2023-08-09",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202310159598445290"
+        },
+        {
+          "donorName": "PALMER, JONATHAN",
+          "donorInfo": "ATTORNEY",
+          "amount": 3300.0,
+          "date": "2023-08-09",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202310159598445289"
+        }
+      ]
+    },
+    {
       "recipientName": "TAMMY BALDWIN FOR SENATE",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
@@ -961,38 +1014,6 @@
       ]
     },
     {
-      "recipientName": "HARRIS FOR PRESIDENT",
-      "recipientParty": "DEMOCRATIC PARTY",
-      "isExtreme": false,
-      "totalAmount": 6647.0,
-      "donorCount": 2,
-      "employer": "MICROSOFT",
-      "timeframe": "over 126 days",
-      "contributions": [
-        {
-          "donorName": "SMITH, BRADLEY",
-          "donorInfo": "MARKETING",
-          "amount": 47.0,
-          "date": "2024-09-10",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202410209700191913"
-        },
-        {
-          "donorName": "ALTHOFF, JUDSON",
-          "donorInfo": "EXECUTIVE",
-          "amount": 3300.0,
-          "date": "2024-05-07",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202406209652440958"
-        },
-        {
-          "donorName": "ALTHOFF, JUDSON",
-          "donorInfo": "EXECUTIVE",
-          "amount": 3300.0,
-          "date": "2024-05-07",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202406209652440957"
-        }
-      ]
-    },
-    {
       "recipientName": "COLLINS FOR SENATOR",
       "recipientParty": "REPUBLICAN PARTY",
       "isExtreme": false,
@@ -1271,10 +1292,10 @@
       "recipientName": "FRIENDS OF MARIA",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
-      "totalAmount": 3581.45,
-      "donorCount": 2,
+      "totalAmount": 4614.15,
+      "donorCount": 3,
       "employer": "MICROSOFT CORPORATION",
-      "timeframe": "in the last 24 hours",
+      "timeframe": "in the last week",
       "contributions": [
         {
           "donorName": "COLEMAN, AMY",
@@ -1289,6 +1310,45 @@
           "amount": 1000.0,
           "date": "2023-12-26",
           "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202401319608067183"
+        },
+        {
+          "donorName": "PALMER, JONATHAN",
+          "donorInfo": "ATTORNEY",
+          "amount": 1032.7,
+          "date": "2023-12-22",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202401319608067589"
+        }
+      ]
+    },
+    {
+      "recipientName": "FRIENDS OF MARK WARNER",
+      "recipientParty": "DEMOCRATIC PARTY",
+      "isExtreme": false,
+      "totalAmount": 1400.0,
+      "donorCount": 2,
+      "employer": "MICROSOFT",
+      "timeframe": "in the last 24 hours",
+      "contributions": [
+        {
+          "donorName": "SMITH, BRADFORD",
+          "donorInfo": "VICE CHAIR",
+          "amount": 600.0,
+          "date": "2025-03-17",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763256714"
+        },
+        {
+          "donorName": "SMITH, BRADFORD",
+          "donorInfo": "VICE CHAIR",
+          "amount": 600.0,
+          "date": "2025-03-17",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763256675"
+        },
+        {
+          "donorName": "PALMER, JONATHAN M.",
+          "donorInfo": "ATTORNEY",
+          "amount": 200.0,
+          "date": "2025-03-17",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763256715"
         }
       ]
     }
