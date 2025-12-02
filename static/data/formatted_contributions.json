@@ -779,6 +779,31 @@
       ]
     },
     {
+      "recipientName": "GARBARINO VICTORY FUND",
+      "recipientParty": "",
+      "isExtreme": false,
+      "totalAmount": 11600.0,
+      "donorCount": 2,
+      "employer": "MICROSOFT CORPORATION",
+      "timeframe": "over 121 days",
+      "contributions": [
+        {
+          "donorName": "SMITH, BRADFORD L.",
+          "donorInfo": "ATTORNEY",
+          "amount": 5000.0,
+          "date": "2025-09-27",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159790874266"
+        },
+        {
+          "donorName": "SMITH, BRAD",
+          "donorInfo": "ATTORNEY",
+          "amount": 6600.0,
+          "date": "2025-05-29",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763362640"
+        }
+      ]
+    },
+    {
       "recipientName": "TAMMY BALDWIN FOR SENATE",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
