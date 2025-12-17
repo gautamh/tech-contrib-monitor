@@ -931,6 +931,38 @@
       ]
     },
     {
+      "recipientName": "FRIENDS OF MARK WARNER",
+      "recipientParty": "DEMOCRATIC PARTY",
+      "isExtreme": false,
+      "totalAmount": 10500.0,
+      "donorCount": 2,
+      "employer": "GOOGLE, INC.",
+      "timeframe": "over 133 days",
+      "contributions": [
+        {
+          "donorName": "RAGHAVAN, PRABHAKAR",
+          "donorInfo": "ENGINEER",
+          "amount": 3500.0,
+          "date": "2025-08-11",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159790993550"
+        },
+        {
+          "donorName": "RAGHAVAN, PRABHAKAR",
+          "donorInfo": "ENGINEER",
+          "amount": 3500.0,
+          "date": "2025-08-11",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159790993534"
+        },
+        {
+          "donorName": "WALKER, KENT",
+          "donorInfo": "CHIEF LEGAL OFFICER",
+          "amount": 3500.0,
+          "date": "2025-03-31",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763256761"
+        }
+      ]
+    },
+    {
       "recipientName": "FRIENDS OF MARIA",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
