@@ -733,6 +733,45 @@
       ]
     },
     {
+      "recipientName": "ROUNDS FOR SENATE",
+      "recipientParty": "REPUBLICAN PARTY",
+      "isExtreme": false,
+      "totalAmount": 11800.0,
+      "donorCount": 3,
+      "employer": "GOOGLE",
+      "timeframe": "over 629 days",
+      "contributions": [
+        {
+          "donorName": "RAGHAVAN, PRABHAKAR",
+          "donorInfo": "ENGINEER",
+          "amount": 3500.0,
+          "date": "2025-08-04",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159791406188"
+        },
+        {
+          "donorName": "RAGHAVAN, PRABHAKAR",
+          "donorInfo": "ENGINEER",
+          "amount": 3500.0,
+          "date": "2025-08-04",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159791406187"
+        },
+        {
+          "donorName": "KURIAN, THOMAS",
+          "donorInfo": "ENGINEER",
+          "amount": 1500.0,
+          "date": "2024-04-25",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763505319"
+        },
+        {
+          "donorName": "FITZPATRICK, JENNIFER",
+          "donorInfo": "SVP",
+          "amount": 3300.0,
+          "date": "2023-11-14",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763500601"
+        }
+      ]
+    },
+    {
       "recipientName": "HARRIS FOR PRESIDENT",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
@@ -1870,31 +1909,6 @@
           "amount": 1650.0,
           "date": "2023-06-30",
           "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202504129755219435"
-        }
-      ]
-    },
-    {
-      "recipientName": "ROUNDS FOR SENATE",
-      "recipientParty": "REPUBLICAN PARTY",
-      "isExtreme": false,
-      "totalAmount": 4800.0,
-      "donorCount": 2,
-      "employer": "GOOGLE",
-      "timeframe": "over 163 days",
-      "contributions": [
-        {
-          "donorName": "KURIAN, THOMAS",
-          "donorInfo": "ENGINEER",
-          "amount": 1500.0,
-          "date": "2024-04-25",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763505319"
-        },
-        {
-          "donorName": "FITZPATRICK, JENNIFER",
-          "donorInfo": "SVP",
-          "amount": 3300.0,
-          "date": "2023-11-14",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763500601"
         }
       ]
     },
