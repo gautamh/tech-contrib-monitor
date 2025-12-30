@@ -1041,6 +1041,73 @@
       ]
     },
     {
+      "recipientName": "JONI FOR IOWA",
+      "recipientParty": "REPUBLICAN PARTY",
+      "isExtreme": false,
+      "totalAmount": 10300.0,
+      "donorCount": 2,
+      "employer": "GOOGLE",
+      "timeframe": "over 722 days",
+      "contributions": [
+        {
+          "donorName": "RAGHAVAN, PRABHAKAR",
+          "donorInfo": "ENGINEER",
+          "amount": 3300.0,
+          "date": "2025-08-18",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159791449387"
+        },
+        {
+          "donorName": "RAGHAVAN, PRABHAKAR",
+          "donorInfo": "ENGINEER",
+          "amount": -3300.0,
+          "date": "2025-08-18",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159791449387"
+        },
+        {
+          "donorName": "RAGHAVAN, PRABHAKAR",
+          "donorInfo": "ENGINEER",
+          "amount": 3500.0,
+          "date": "2025-08-11",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159791449387"
+        },
+        {
+          "donorName": "KURIAN, THOMAS",
+          "donorInfo": "ENGINEER",
+          "amount": 200.0,
+          "date": "2024-05-20",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202407159660702325"
+        },
+        {
+          "donorName": "KURIAN, THOMAS",
+          "donorInfo": "ENGINEER",
+          "amount": -200.0,
+          "date": "2024-05-20",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202407159660702325"
+        },
+        {
+          "donorName": "KURIAN, THOMAS",
+          "donorInfo": "ENGINEER",
+          "amount": 1500.0,
+          "date": "2024-04-25",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202407159660702325"
+        },
+        {
+          "donorName": "RAGHAVAN, PRABHAKAR",
+          "donorInfo": "ENGINEER",
+          "amount": 3300.0,
+          "date": "2023-12-07",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202401319607873805"
+        },
+        {
+          "donorName": "KURIAN, THOMAS",
+          "donorInfo": "ENGINEER",
+          "amount": 2000.0,
+          "date": "2023-08-27",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202310139597626160"
+        }
+      ]
+    },
+    {
       "recipientName": "PETE AGUILAR FOR CONGRESS",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
@@ -1524,52 +1591,6 @@
           "amount": 750.0,
           "date": "2025-02-15",
           "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202504159756023676"
-        }
-      ]
-    },
-    {
-      "recipientName": "JONI FOR IOWA",
-      "recipientParty": "REPUBLICAN PARTY",
-      "isExtreme": false,
-      "totalAmount": 6800.0,
-      "donorCount": 2,
-      "employer": "GOOGLE",
-      "timeframe": "over 267 days",
-      "contributions": [
-        {
-          "donorName": "KURIAN, THOMAS",
-          "donorInfo": "ENGINEER",
-          "amount": 200.0,
-          "date": "2024-05-20",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202407159660702325"
-        },
-        {
-          "donorName": "KURIAN, THOMAS",
-          "donorInfo": "ENGINEER",
-          "amount": -200.0,
-          "date": "2024-05-20",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202407159660702325"
-        },
-        {
-          "donorName": "KURIAN, THOMAS",
-          "donorInfo": "ENGINEER",
-          "amount": 1500.0,
-          "date": "2024-04-25",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202407159660702325"
-        },
-        {
-          "donorName": "RAGHAVAN, PRABHAKAR",
-          "donorInfo": "ENGINEER",
-          "amount": 3300.0,
-          "date": "2023-12-07",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202401319607873805"
-        },
-        {
-          "donorName": "KURIAN, THOMAS",
-          "donorInfo": "ENGINEER",
-          "amount": 2000.0,
-          "date": "2023-08-27",
-          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202310139597626160"
         }
       ]
     },
