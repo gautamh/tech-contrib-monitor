@@ -5787,7 +5787,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "TESTER VICTORY FUND",
+      "affiliated_committee_name": "JUSTICE 2024",
       "candidate_ids": [
         "S6MT00162"
       ],
@@ -6011,7 +6011,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "MAINE SENATE REPUBLICAN NOMINEE FUND -- SUSAN COLLINS",
+      "affiliated_committee_name": "COLLINS VICTORY COMMITTEE",
       "candidate_ids": [
         "S6ME00159"
       ],
@@ -7574,7 +7574,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ROUNDS-SDGOP VICTORY FUND",
+      "affiliated_committee_name": "FISCHER-ROUNDS VICTORY COMMITTEE",
       "candidate_ids": [
         "S4SD00049"
       ],
@@ -23242,7 +23242,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "TESTER VICTORY FUND",
+      "affiliated_committee_name": "JUSTICE 2024",
       "candidate_ids": [
         "S6MT00162"
       ],
@@ -65172,7 +65172,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NV PARTY VICTORY FUND",
+      "affiliated_committee_name": "HORSFORD VICTORY FUND 2020",
       "candidate_ids": [],
       "city": "LAS VEGAS",
       "committee_id": "C00208991",
@@ -68744,7 +68744,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "KAINE FOR COMMON GROUND PAC",
+      "affiliated_committee_name": "KAINE VICTORY FUND",
       "candidate_ids": [
         "S2VA00142"
       ],
@@ -70532,7 +70532,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "KAINE FOR COMMON GROUND PAC",
+      "affiliated_committee_name": "KAINE VICTORY FUND",
       "candidate_ids": [
         "S2VA00142"
       ],
@@ -79647,8 +79647,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-12-16",
-      "last_file_date": "2025-12-16",
+      "last_f1_date": "2026-01-02",
+      "last_file_date": "2026-01-02",
       "name": "ALASKANS FOR DAN SULLIVAN",
       "organization_type": null,
       "organization_type_full": null,
@@ -79788,8 +79788,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-12-16",
-      "last_file_date": "2025-12-16",
+      "last_f1_date": "2026-01-02",
+      "last_file_date": "2026-01-02",
       "name": "ALASKANS FOR DAN SULLIVAN",
       "organization_type": null,
       "organization_type_full": null,
@@ -81438,8 +81438,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-08-22",
-      "last_file_date": "2025-10-15",
+      "last_f1_date": "2026-01-02",
+      "last_file_date": "2026-01-02",
       "name": "ROGERS FOR SENATE",
       "organization_type": null,
       "organization_type_full": null,
@@ -81535,7 +81535,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "CORNYN VICTORY COMMITTEE",
       "candidate_ids": [
         "S2WI00268",
         "S4WI00256"
@@ -81914,7 +81914,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -84343,7 +84343,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "HOGAN VICTORY FUND",
       "candidate_ids": [
         "S4MD00483"
       ],
@@ -85291,7 +85291,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85417,7 +85417,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85543,7 +85543,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85669,7 +85669,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -109910,8 +109910,8 @@
     "unused_contbr_id": null
   },
   {
-    "amendment_indicator": "A",
-    "amendment_indicator_desc": "ADD",
+    "amendment_indicator": "N",
+    "amendment_indicator_desc": "NO CHANGE",
     "back_reference_schedule_name": "SA11AI",
     "back_reference_transaction_id": "9160200E",
     "candidate_first_name": null,
@@ -110072,22 +110072,22 @@
     "entity_type_desc": "INDIVIDUAL",
     "fec_election_type_desc": "GENERAL",
     "fec_election_year": "2026",
-    "file_number": 1902257,
+    "file_number": 1920826,
     "filing_form": "F3",
-    "image_number": "202507159763200021",
+    "image_number": "202510159791270546",
     "increased_limit": null,
     "is_individual": true,
     "line_number": "11AI",
     "line_number_label": "Contributions From Individuals/Persons Other Than Political Committees",
-    "link_id": 4071520251208390570,
-    "load_date": "2025-10-16T04:08:33",
+    "link_id": 4101520251292819872,
+    "load_date": "2026-01-03T03:06:00",
     "memo_code": null,
     "memo_code_full": null,
     "memo_text": "* EARMARKED CONTRIBUTION: SEE BELOW",
     "memoed_subtotal": false,
     "national_committee_nonfederal_account": null,
     "original_sub_id": null,
-    "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763200021",
+    "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159791270546",
     "receipt_type": "15E",
     "receipt_type_desc": "EARMARKED CONTRIBUTION",
     "receipt_type_full": null,
@@ -110098,14 +110098,14 @@
     "report_year": 2025,
     "schedule_type": "SA",
     "schedule_type_full": "ITEMIZED RECEIPTS",
-    "sub_id": "4080520251215470570",
+    "sub_id": "4010220261299870919",
     "transaction_id": "9160200",
     "two_year_transaction_period": 2026,
     "unused_contbr_id": "C00401224"
   },
   {
-    "amendment_indicator": "A",
-    "amendment_indicator_desc": "ADD",
+    "amendment_indicator": "N",
+    "amendment_indicator_desc": "NO CHANGE",
     "back_reference_schedule_name": "SA11AI",
     "back_reference_transaction_id": "9160199E",
     "candidate_first_name": null,
@@ -110266,22 +110266,22 @@
     "entity_type_desc": "INDIVIDUAL",
     "fec_election_type_desc": "PRIMARY",
     "fec_election_year": "2026",
-    "file_number": 1902257,
+    "file_number": 1920826,
     "filing_form": "F3",
-    "image_number": "202507159763200020",
+    "image_number": "202510159791270545",
     "increased_limit": null,
     "is_individual": true,
     "line_number": "11AI",
     "line_number_label": "Contributions From Individuals/Persons Other Than Political Committees",
-    "link_id": 4071520251208390570,
-    "load_date": "2025-10-16T04:08:33",
+    "link_id": 4101520251292819872,
+    "load_date": "2026-01-03T03:06:00",
     "memo_code": null,
     "memo_code_full": null,
     "memo_text": "* EARMARKED CONTRIBUTION: SEE BELOW",
     "memoed_subtotal": false,
     "national_committee_nonfederal_account": null,
     "original_sub_id": null,
-    "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202507159763200020",
+    "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159791270545",
     "receipt_type": "15E",
     "receipt_type_desc": "EARMARKED CONTRIBUTION",
     "receipt_type_full": null,
@@ -110292,7 +110292,7 @@
     "report_year": 2025,
     "schedule_type": "SA",
     "schedule_type_full": "ITEMIZED RECEIPTS",
-    "sub_id": "4080520251215470568",
+    "sub_id": "4010220261299870917",
     "transaction_id": "9160199",
     "two_year_transaction_period": 2026,
     "unused_contbr_id": "C00401224"
@@ -116997,7 +116997,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DOLLARS FOR DEMOCRATS",
+      "affiliated_committee_name": "DNC STATE PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LITTLE ROCK",
       "committee_id": "C00024372",
@@ -117193,7 +117193,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DOLLARS FOR DEMOCRATS",
+      "affiliated_committee_name": "DNC STATE PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LITTLE ROCK",
       "committee_id": "C00024372",
@@ -121197,7 +121197,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NV PARTY VICTORY FUND",
+      "affiliated_committee_name": "HORSFORD VICTORY FUND 2020",
       "candidate_ids": [],
       "city": "LAS VEGAS",
       "committee_id": "C00208991",
@@ -121378,7 +121378,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NV PARTY VICTORY FUND",
+      "affiliated_committee_name": "HORSFORD VICTORY FUND 2020",
       "candidate_ids": [],
       "city": "LAS VEGAS",
       "committee_id": "C00208991",
@@ -130333,7 +130333,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DEFEND DEMOCRACY NOW PAC",
+      "affiliated_committee_name": "DAVIDS NEW DEMS FUND",
       "candidate_ids": [],
       "city": "WASHINGTON",
       "committee_id": "C00409730",
@@ -138271,7 +138271,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "S6WY00068"
       ],
@@ -138468,7 +138468,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "S6WY00068"
       ],
@@ -140475,7 +140475,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ROUNDS-SDGOP VICTORY FUND",
+      "affiliated_committee_name": "FISCHER-ROUNDS VICTORY COMMITTEE",
       "candidate_ids": [
         "S4SD00049"
       ],
@@ -141031,7 +141031,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "TESTER VICTORY FUND",
+      "affiliated_committee_name": "JUSTICE 2024",
       "candidate_ids": [
         "S6MT00162"
       ],
@@ -146249,7 +146249,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "STEVENS VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H8MI11254"
       ],
@@ -156152,7 +156152,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "TEAM RAJA VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H6IL08147"
       ],
@@ -157540,7 +157540,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ROUNDS-SDGOP VICTORY FUND",
+      "affiliated_committee_name": "FISCHER-ROUNDS VICTORY COMMITTEE",
       "candidate_ids": [
         "S4SD00049"
       ],
@@ -158778,8 +158778,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-12-16",
-      "last_file_date": "2025-12-16",
+      "last_f1_date": "2026-01-02",
+      "last_file_date": "2026-01-02",
       "name": "ALASKANS FOR DAN SULLIVAN",
       "organization_type": null,
       "organization_type_full": null,
@@ -159209,8 +159209,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2018-02-15",
-      "last_file_date": "2025-10-15",
+      "last_f1_date": "2026-01-02",
+      "last_file_date": "2026-01-02",
       "name": "COLE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -171073,5 +171073,357 @@
     "transaction_id": "41428802",
     "two_year_transaction_period": 2026,
     "unused_contbr_id": "C00401224"
+  },
+  {
+    "amendment_indicator": "A",
+    "amendment_indicator_desc": "ADD",
+    "back_reference_schedule_name": null,
+    "back_reference_transaction_id": null,
+    "candidate_first_name": null,
+    "candidate_id": null,
+    "candidate_last_name": null,
+    "candidate_middle_name": null,
+    "candidate_name": null,
+    "candidate_office": null,
+    "candidate_office_district": null,
+    "candidate_office_full": null,
+    "candidate_office_state": null,
+    "candidate_office_state_full": null,
+    "candidate_prefix": null,
+    "candidate_suffix": null,
+    "committee": {
+      "affiliated_committee_name": "HOUCHIN VICTORY FUND",
+      "candidate_ids": [
+        "H6IN09143"
+      ],
+      "city": "INDIANAPOLIS",
+      "committee_id": "C00800649",
+      "committee_type": "H",
+      "committee_type_full": "House",
+      "cycle": 2026,
+      "cycles": [
+        2022,
+        2024,
+        2026
+      ],
+      "cycles_has_activity": [
+        2022,
+        2024,
+        2026
+      ],
+      "cycles_has_financial": [
+        2022,
+        2024,
+        2026
+      ],
+      "designation": "P",
+      "designation_full": "Principal campaign committee",
+      "filing_frequency": "Q",
+      "first_f1_date": "2022-01-12",
+      "first_file_date": "2022-01-12",
+      "is_active": true,
+      "last_cycle_has_activity": 2026,
+      "last_cycle_has_financial": 2026,
+      "last_f1_date": "2025-06-25",
+      "last_file_date": "2025-10-15",
+      "name": "HOUCHIN FOR CONGRESS",
+      "organization_type": null,
+      "organization_type_full": null,
+      "party": "REP",
+      "party_full": "REPUBLICAN PARTY",
+      "state": "IN",
+      "state_full": "Indiana",
+      "street_1": "PO BOX 44045",
+      "street_2": null,
+      "treasurer_name": "CROSS, MIKE",
+      "zip": "46244"
+    },
+    "committee_id": "C00800649",
+    "committee_name": null,
+    "conduit_committee_city": null,
+    "conduit_committee_id": null,
+    "conduit_committee_name": null,
+    "conduit_committee_state": null,
+    "conduit_committee_street1": null,
+    "conduit_committee_street2": null,
+    "conduit_committee_zip": null,
+    "contribution_receipt_amount": 3500.0,
+    "contribution_receipt_date": "2025-08-29",
+    "contributor": {
+      "affiliated_committee_name": "NONE",
+      "candidate_ids": [],
+      "city": "ARLINGTON",
+      "committee_id": "C00694323",
+      "committee_type": "V",
+      "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+      "cycle": 2026,
+      "cycles": [
+        2020,
+        2022,
+        2024,
+        2026
+      ],
+      "cycles_has_activity": [
+        2020,
+        2022,
+        2024,
+        2026
+      ],
+      "cycles_has_financial": [
+        2020,
+        2022,
+        2024,
+        2026
+      ],
+      "designation": "U",
+      "designation_full": "Unauthorized",
+      "filing_frequency": "Q",
+      "first_f1_date": "2019-01-18",
+      "first_file_date": "2019-01-18",
+      "is_active": true,
+      "last_cycle_has_activity": 2026,
+      "last_cycle_has_financial": 2026,
+      "last_f1_date": "2019-10-16",
+      "last_file_date": "2025-07-31",
+      "name": "WINRED",
+      "organization_type": null,
+      "organization_type_full": null,
+      "party": null,
+      "party_full": null,
+      "state": "VA",
+      "state_full": "Virginia",
+      "street_1": "4250 FAIRFAX DR",
+      "street_2": "STE 600",
+      "treasurer_name": "OTTENHOFF, BENJAMIN",
+      "zip": "22203"
+    },
+    "contributor_aggregate_ytd": 3500.0,
+    "contributor_city": "MOUNTAIN VIEW",
+    "contributor_employer": "GOOGLE LLC",
+    "contributor_first_name": "KENT",
+    "contributor_id": "C00694323",
+    "contributor_last_name": "WALKER",
+    "contributor_middle_name": null,
+    "contributor_name": "WALKER, KENT",
+    "contributor_occupation": "EXECUTIVE",
+    "contributor_prefix": null,
+    "contributor_state": "CA",
+    "contributor_street_1": "1600 AMPHITHEATRE PARKWAY",
+    "contributor_street_2": null,
+    "contributor_suffix": null,
+    "contributor_zip": "94043",
+    "donor_committee_name": null,
+    "election_type": "P2026",
+    "election_type_full": null,
+    "entity_type": "IND",
+    "entity_type_desc": "INDIVIDUAL",
+    "fec_election_type_desc": "PRIMARY",
+    "fec_election_year": "2026",
+    "file_number": 1920202,
+    "filing_form": "F3",
+    "image_number": "202510159790917065",
+    "increased_limit": null,
+    "is_individual": true,
+    "line_number": "11AI",
+    "line_number_label": "Contributions From Individuals/Persons Other Than Political Committees",
+    "link_id": 4101520251292819438,
+    "load_date": "2026-01-03T03:06:00",
+    "memo_code": null,
+    "memo_code_full": null,
+    "memo_text": null,
+    "memoed_subtotal": false,
+    "national_committee_nonfederal_account": null,
+    "original_sub_id": null,
+    "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159790917065",
+    "receipt_type": "15E",
+    "receipt_type_desc": "EARMARKED CONTRIBUTION",
+    "receipt_type_full": "EARMARKED (NON-DIRECTED) THROUGH WINRED",
+    "recipient_committee_designation": "P",
+    "recipient_committee_org_type": null,
+    "recipient_committee_type": "H",
+    "report_type": "Q3",
+    "report_year": 2025,
+    "schedule_type": "SA",
+    "schedule_type_full": "ITEMIZED RECEIPTS",
+    "sub_id": "4010220261299898961",
+    "transaction_id": "A832F64450DD344DA864",
+    "two_year_transaction_period": 2026,
+    "unused_contbr_id": "C00694323"
+  },
+  {
+    "amendment_indicator": "A",
+    "amendment_indicator_desc": "ADD",
+    "back_reference_schedule_name": "SA11AI",
+    "back_reference_transaction_id": "SA11AI.160981520",
+    "candidate_first_name": null,
+    "candidate_id": null,
+    "candidate_last_name": null,
+    "candidate_middle_name": null,
+    "candidate_name": null,
+    "candidate_office": null,
+    "candidate_office_district": null,
+    "candidate_office_full": null,
+    "candidate_office_state": null,
+    "candidate_office_state_full": null,
+    "candidate_prefix": null,
+    "candidate_suffix": null,
+    "committee": {
+      "affiliated_committee_name": "FRESHMAN AGRICULTURAL REPUBLICAN MEMBERS TRUST AKA FARM TRUST",
+      "candidate_ids": [
+        "H2IA03119"
+      ],
+      "city": "DES MOINES",
+      "committee_id": "C00784389",
+      "committee_type": "H",
+      "committee_type_full": "House",
+      "cycle": 2026,
+      "cycles": [
+        2022,
+        2024,
+        2026
+      ],
+      "cycles_has_activity": [
+        2022,
+        2024,
+        2026
+      ],
+      "cycles_has_financial": [
+        2022,
+        2024,
+        2026
+      ],
+      "designation": "P",
+      "designation_full": "Principal campaign committee",
+      "filing_frequency": "Q",
+      "first_f1_date": "2021-07-13",
+      "first_file_date": "2021-07-13",
+      "is_active": true,
+      "last_cycle_has_activity": 2026,
+      "last_cycle_has_financial": 2026,
+      "last_f1_date": "2025-04-14",
+      "last_file_date": "2025-10-15",
+      "name": "IOWANS FOR ZACH NUNN",
+      "organization_type": null,
+      "organization_type_full": null,
+      "party": "REP",
+      "party_full": "REPUBLICAN PARTY",
+      "state": "IA",
+      "state_full": "Iowa",
+      "street_1": "PO BOX 8036",
+      "street_2": null,
+      "treasurer_name": "CRATE, BRADLEY T MR",
+      "zip": "50301"
+    },
+    "committee_id": "C00784389",
+    "committee_name": null,
+    "conduit_committee_city": null,
+    "conduit_committee_id": null,
+    "conduit_committee_name": null,
+    "conduit_committee_state": null,
+    "conduit_committee_street1": null,
+    "conduit_committee_street2": null,
+    "conduit_committee_zip": null,
+    "contribution_receipt_amount": 3500.0,
+    "contribution_receipt_date": "2025-08-29",
+    "contributor": {
+      "affiliated_committee_name": "NONE",
+      "candidate_ids": [],
+      "city": "ARLINGTON",
+      "committee_id": "C00694323",
+      "committee_type": "V",
+      "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+      "cycle": 2026,
+      "cycles": [
+        2020,
+        2022,
+        2024,
+        2026
+      ],
+      "cycles_has_activity": [
+        2020,
+        2022,
+        2024,
+        2026
+      ],
+      "cycles_has_financial": [
+        2020,
+        2022,
+        2024,
+        2026
+      ],
+      "designation": "U",
+      "designation_full": "Unauthorized",
+      "filing_frequency": "Q",
+      "first_f1_date": "2019-01-18",
+      "first_file_date": "2019-01-18",
+      "is_active": true,
+      "last_cycle_has_activity": 2026,
+      "last_cycle_has_financial": 2026,
+      "last_f1_date": "2019-10-16",
+      "last_file_date": "2025-07-31",
+      "name": "WINRED",
+      "organization_type": null,
+      "organization_type_full": null,
+      "party": null,
+      "party_full": null,
+      "state": "VA",
+      "state_full": "Virginia",
+      "street_1": "4250 FAIRFAX DR",
+      "street_2": "STE 600",
+      "treasurer_name": "OTTENHOFF, BENJAMIN",
+      "zip": "22203"
+    },
+    "contributor_aggregate_ytd": 3500.0,
+    "contributor_city": "MOUNTAIN VIEW",
+    "contributor_employer": "GOOGLE LLC",
+    "contributor_first_name": "KENT",
+    "contributor_id": "C00694323",
+    "contributor_last_name": "WALKER",
+    "contributor_middle_name": null,
+    "contributor_name": "WALKER, KENT",
+    "contributor_occupation": "EXECUTIVE",
+    "contributor_prefix": null,
+    "contributor_state": "CA",
+    "contributor_street_1": "1600 AMPHITHEATRE PKWY",
+    "contributor_street_2": null,
+    "contributor_suffix": null,
+    "contributor_zip": "94043",
+    "donor_committee_name": null,
+    "election_type": "P2026",
+    "election_type_full": null,
+    "entity_type": "IND",
+    "entity_type_desc": "INDIVIDUAL",
+    "fec_election_type_desc": "PRIMARY",
+    "fec_election_year": "2026",
+    "file_number": 1921417,
+    "filing_form": "F3",
+    "image_number": "202510159791533983",
+    "increased_limit": null,
+    "is_individual": true,
+    "line_number": "11AI",
+    "line_number_label": "Contributions From Individuals/Persons Other Than Political Committees",
+    "link_id": 4101620251292847015,
+    "load_date": "2026-01-03T03:06:00",
+    "memo_code": null,
+    "memo_code_full": null,
+    "memo_text": null,
+    "memoed_subtotal": false,
+    "national_committee_nonfederal_account": null,
+    "original_sub_id": null,
+    "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202510159791533983",
+    "receipt_type": "15E",
+    "receipt_type_desc": "EARMARKED CONTRIBUTION",
+    "receipt_type_full": "EARMARKED THROUGH WINRED",
+    "recipient_committee_designation": "P",
+    "recipient_committee_org_type": null,
+    "recipient_committee_type": "H",
+    "report_type": "Q3",
+    "report_year": 2025,
+    "schedule_type": "SA",
+    "schedule_type_full": "ITEMIZED RECEIPTS",
+    "sub_id": "4010220261299877746",
+    "transaction_id": "SA11AI.160981985",
+    "two_year_transaction_period": 2026,
+    "unused_contbr_id": "C00694323"
   }
 ]
