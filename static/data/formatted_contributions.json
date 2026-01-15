@@ -2046,6 +2046,126 @@
   ],
   "pacContributions": [
     {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "THE PETER NORBECK LEADERSHIP PAC",
+      "amount": 5000.0,
+      "recipientParty": "",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777730"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "SUOZZI FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777729"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "STEVE DAINES FOR MONTANA",
+      "amount": 1500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777729"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "STEVE DAINES FOR MONTANA",
+      "amount": 1000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777729"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "OORAH! POLITICAL ACTION COMMITTEE",
+      "amount": 2500.0,
+      "recipientParty": "",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777728"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+      "amount": 2500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777728"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "KEVIN MULLIN FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777728"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "JULIA LETLOW FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777727"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "JIMMY PANETTA FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777727"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "FRIENDS OF TODD YOUNG, INC.",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777727"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "FRIENDS FOR GREGORY MEEKS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777726"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "DR KIM SCHRIER FOR CONGRESS",
+      "amount": 1500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777726"
+    },
+    {
+      "donorName": "GOOGLE LLC NETPAC",
+      "recipientName": "BYRON DONALDS FOR CONGRESS",
+      "amount": 5000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2025-10-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202511209792777726"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+      "amount": 5000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2025-10-08",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601149793996865"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "DUCKWORTH VICTORY FUND",
+      "amount": 5000.0,
+      "recipientParty": "",
+      "date": "2025-10-01",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601149793996865"
+    },
+    {
       "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
       "recipientName": "SUSTAINABLE ENERGY AND ENVIRONMENT COALITION PAC (SEEC PAC)",
       "amount": 5000.0,
@@ -2910,14 +3030,6 @@
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202509159790060456"
     },
     {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "NEW DEMOCRAT COALITION ACTION FUND",
-      "amount": 5000.0,
-      "recipientParty": "",
-      "date": "2025-08-21",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202509209790287125"
-    },
-    {
       "donorName": "GOOGLE LLC NETPAC",
       "recipientName": "HISPANIC LEADERSHIP TRUST",
       "amount": 5000.0,
@@ -2932,30 +3044,6 @@
       "recipientParty": "",
       "date": "2025-08-08",
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202509199790182753"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY",
-      "amount": 1000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-08-08",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202509209790287124"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "DIGIDEMS PAC",
-      "amount": 5000.0,
-      "recipientParty": "",
-      "date": "2025-08-08",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202509209790287124"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "A NEW DIRECTION PAC",
-      "amount": 5000.0,
-      "recipientParty": "",
-      "date": "2025-08-08",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202509209790287123"
     },
     {
       "donorName": "GOOGLE LLC NETPAC",
@@ -3198,14 +3286,6 @@
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627324"
     },
     {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "ADAM GRAY FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-06-27",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627324"
-    },
-    {
       "donorName": "META PLATFORMS, INC. PAC",
       "recipientName": "WILD AND WONDERFUL PAC",
       "amount": 1000.0,
@@ -3348,102 +3428,6 @@
       "recipientParty": "REPUBLICAN PARTY",
       "date": "2025-06-26",
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763625758"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "ZINKE FOR CONGRESS",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627323"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "VAN ORDEN FOR CONGRESS",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627323"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "TOM BARRETT FOR CONGRESS",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627323"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "THOM TILLIS COMMITTEE",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627322"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "ROB WITTMAN FOR CONGRESS",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627322"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "ROB FOR PA",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627322"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "REJOICE PAC",
-      "amount": 5000.0,
-      "recipientParty": "",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627321"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "MILLER-MEEKS FOR CONGRESS",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627321"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "MACKENZIE FOR CONGRESS COMMITTEE",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627321"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "LAWLER FOR CONGRESS, INC.",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627320"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "LATTA FOR CONGRESS",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627320"
-    },
-    {
-      "donorName": "GOOGLE LLC NETPAC",
-      "recipientName": "LALOTA FOR CONGRESS",
-      "amount": 2000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-06-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763627320"
     },
     {
       "donorName": "META PLATFORMS, INC. PAC",

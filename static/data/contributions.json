@@ -6011,7 +6011,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "MAINE SENATE REPUBLICAN NOMINEE FUND -- SUSAN COLLINS",
+      "affiliated_committee_name": "COLLINS VICTORY COMMITTEE",
       "candidate_ids": [
         "S6ME00159"
       ],
@@ -10869,7 +10869,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HKR VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H4CA12055"
       ],
@@ -25211,7 +25211,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2023-11-22",
-      "last_file_date": "2025-10-15",
+      "last_file_date": "2026-01-12",
       "name": "SWALWELL FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -81409,7 +81409,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ROGERS FOR MI SENATE REPUBLICAN NOMINEE FUND 2024",
+      "affiliated_committee_name": "MIKE ROGERS VICTORY COMMITTEE",
       "candidate_ids": [
         "S4MI00595"
       ],
@@ -81535,7 +81535,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "CORNYN VICTORY COMMITTEE",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "S2WI00268",
         "S4WI00256"
@@ -130333,7 +130333,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DEFEND DEMOCRACY NOW PAC",
+      "affiliated_committee_name": "DAVIDS NEW DEMS FUND",
       "candidate_ids": [],
       "city": "WASHINGTON",
       "committee_id": "C00409730",
@@ -130555,7 +130555,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H2IL10068"
       ],
@@ -135831,7 +135831,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2023-09-05",
-      "last_file_date": "2025-12-02",
+      "last_file_date": "2026-01-13",
       "name": "TECHNOLOGY NETWORK (TECHNET) FEDERAL PAC",
       "organization_type": "T",
       "organization_type_full": "Trade Association",
@@ -139021,8 +139021,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-12-31",
-      "last_file_date": "2025-12-31",
+      "last_f1_date": "2026-01-12",
+      "last_file_date": "2026-01-12",
       "name": "SUSIE LEE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -141031,7 +141031,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "JUSTICE 2024",
+      "affiliated_committee_name": "TESTER VICTORY FUND",
       "candidate_ids": [
         "S6MT00162"
       ],
@@ -160028,7 +160028,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "KAINE VICTORY FUND",
+      "affiliated_committee_name": "KAINE FOR COMMON GROUND PAC",
       "candidate_ids": [
         "S2VA00142"
       ],
@@ -160243,7 +160243,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "KAINE VICTORY FUND",
+      "affiliated_committee_name": "KAINE FOR COMMON GROUND PAC",
       "candidate_ids": [
         "S2VA00142"
       ],
@@ -160458,7 +160458,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "PETERS VICTORY 2020",
+      "affiliated_committee_name": "PETERS LEADERSHIP FUND",
       "candidate_ids": [
         "H8MI09068",
         "S4MI00355"
@@ -164235,7 +164235,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-12-03",
-      "last_file_date": "2025-10-15",
+      "last_file_date": "2026-01-13",
       "name": "TONY GONZALES FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -170104,7 +170104,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -170245,7 +170245,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -170386,7 +170386,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -172138,8 +172138,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-10-15",
-      "last_file_date": "2025-10-15",
+      "last_f1_date": "2026-01-11",
+      "last_file_date": "2026-01-11",
       "name": "JAKE AUCHINCLOSS FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -172277,7 +172277,7 @@
     "receipt_type_desc": "EARMARKED CONTRIBUTION",
     "receipt_type_full": null,
     "recipient_committee_designation": "P",
-    "recipient_committee_org_type": null,
+    "recipient_committee_org_type": "",
     "recipient_committee_type": "H",
     "report_type": "Q3",
     "report_year": 2025,
