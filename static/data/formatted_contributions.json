@@ -111,6 +111,38 @@
       ]
     },
     {
+      "recipientName": "DSCC",
+      "recipientParty": "DEMOCRATIC PARTY",
+      "isExtreme": false,
+      "totalAmount": 75000.0,
+      "donorCount": 2,
+      "employer": "MICROSOFT CORPORATION",
+      "timeframe": "over 343 days",
+      "contributions": [
+        {
+          "donorName": "SMITH, BRAD",
+          "donorInfo": "ATTORNEY",
+          "amount": 25000.0,
+          "date": "2025-09-27",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791801371"
+        },
+        {
+          "donorName": "SMITH, BRADFORD",
+          "donorInfo": "ATTORNEY",
+          "amount": 8700.0,
+          "date": "2024-10-19",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202412059731446922"
+        },
+        {
+          "donorName": "SMITH, BRADFORD",
+          "donorInfo": "ATTORNEY",
+          "amount": 41300.0,
+          "date": "2024-10-19",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202412059731359189"
+        }
+      ]
+    },
+    {
       "recipientName": "LOFGREN FOR CONGRESS",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
