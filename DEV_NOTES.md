@@ -28,7 +28,7 @@ The data pipeline is managed by a single GitHub Actions workflow defined in `.gi
         -   **Deduplication:** Removes duplicate records from the raw API data based on `transaction_id`.
         -   **Name Normalization:** Cleans and standardizes contributor names to group records from the same individual.
         -   **Filtering:** Filters PAC expenditures to isolate true contributions and removes negative-value transactions (refunds).
-        -   **Clustering:** Groups individual contributions to detect "executive clusters."
+        -   **Clustering:** Groups individual contributions to detect "executive clusters" using a chaining logic where each contribution must be within 30 days of the previous one.
     -   **Output:** A single `static/data/formatted_contributions.json` file.
 
 ## Design Decisions & Debugging Journey

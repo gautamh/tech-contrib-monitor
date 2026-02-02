@@ -112,24 +112,90 @@ def format_cluster_data(raw_individual_data: List[dict]) -> List[dict]:
                 date=row['contribution_receipt_date'].strftime('%Y-%m-%d'),
                 fecUrl=row['pdf_url']
             ))
+        
+        # Sort contributions by date ascending for chaining logic
+        contributions.sort(key=lambda x: x.date)
 
-        min_date, max_date = group['contribution_receipt_date'].min(), group['contribution_receipt_date'].max()
-        time_delta_days = (max_date - min_date).days
-        timeframe = f"over {time_delta_days} days" if time_delta_days > 7 else ("in the last week" if time_delta_days > 1 else "in the last 24 hours")
+        current_cluster_conts = [contributions[0]]
+        
+        for c in contributions[1:]:
+            # Get the date of the last added contribution in the current cluster
+            last_date_str = current_cluster_conts[-1].date
+            current_date_str = c.date
+            
+            last_date = pd.to_datetime(last_date_str)
+            current_date = pd.to_datetime(current_date_str)
+            
+            diff_days = (current_date - last_date).days
+            
+            if diff_days <= 30:
+                 current_cluster_conts.append(c)
+            else:
+                 # Finalize current cluster if it has enough unique donors
+                 # We need to check unique donors again because splitting might have separated them
+                 unique_donors = set(item.donorName for item in current_cluster_conts) # simplistic check, ideally use normalized name 
+                 # But normalized name isn't in FormattedContribution. 
+                 # Let's re-verify with normalized names from the source dataframe if possible or just rely on raw names?
+                 # Better: The 'group' has normalized names. We can use a map.
+                 # Actually, let's just create the cluster object and validation can happen on 'donorCount' being >= 2
+                 
+                 # Wait, FormattedContribution doesn't have normalized name. 
+                 # The validation `if group['normalized_name'].nunique() < 2:` was done on the WHOLE group.
+                 # If we split, we might end up with sub-clusters with only 1 donor.
+                 # So we MUST filter sub-clusters.
+                 
+                 pass # Logic continues below to add to clusters list
+                 
+                 # Store the finished cluster temporarily
+                 _add_cluster_if_valid(clusters, current_cluster_conts, committee_info, employer, group)
+                 current_cluster_conts = [c]
 
-        cluster = ClusterEvent(
-            recipientName=committee_info.get('name', 'Unknown Committee'),
-            recipientParty=(committee_info.get('party_full') or '').strip(),
-            isExtreme=False, # Placeholder for future analysis
-            totalAmount=group['contribution_receipt_amount'].sum(),
-            donorCount=group['normalized_name'].nunique(),
-            employer=employer,
-            timeframe=timeframe,
-            contributions=sorted([asdict(c) for c in contributions], key=lambda x: x['date'], reverse=True)
-        )
-        clusters.append(asdict(cluster))
-    
+        # Add the last cluster
+        _add_cluster_if_valid(clusters, current_cluster_conts, committee_info, employer, group)
+
     return sorted(clusters, key=lambda x: x['totalAmount'], reverse=True)
+
+def _add_cluster_if_valid(clusters_list, cluster_conts, committee_info, employer, original_group_df):
+    """Helper to validate and add a cluster to the list."""
+    if not cluster_conts:
+        return
+
+    # Check for unique donors in this specific sub-cluster
+    # We need to map back to normalized names.
+    # We can do this by looking up the normalized name in the original group df for each donorName.
+    # However, donorName might not be unique in the DF. 
+    # Let's assume raw names are distinct enough or re-derive normalized name.
+    # Re-deriving is safer.
+    
+    unique_donors = set()
+    total_amount = 0.0
+    
+    dates = []
+    
+    for c in cluster_conts:
+        unique_donors.add(normalize_name(c.donorName))
+        total_amount += c.amount
+        dates.append(pd.to_datetime(c.date))
+
+    if len(unique_donors) < 2:
+        return
+
+    min_date = min(dates)
+    max_date = max(dates)
+    time_delta_days = (max_date - min_date).days
+    timeframe = f"over {time_delta_days} days" if time_delta_days > 7 else ("in the last week" if time_delta_days > 1 else "in the last 24 hours")
+
+    cluster = ClusterEvent(
+        recipientName=committee_info.get('name', 'Unknown Committee'),
+        recipientParty=(committee_info.get('party_full') or '').strip(),
+        isExtreme=False, 
+        totalAmount=total_amount,
+        donorCount=len(unique_donors),
+        employer=employer,
+        timeframe=timeframe,
+        contributions=sorted([asdict(c) for c in cluster_conts], key=lambda x: x['date'], reverse=True)
+    )
+    clusters_list.append(asdict(cluster))
 
 def format_pac_data(raw_pac_data: List[dict]) -> List[dict]:
     """Processes raw PAC expenditures into a clean list of donations, filtering out non-contributions and refunds."""

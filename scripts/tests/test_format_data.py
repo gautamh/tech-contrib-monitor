@@ -69,6 +69,79 @@ def test_normalize_name(input_name, expected_output):
     assert normalize_name(input_name) == expected_output
 
 # --- Tests for format_cluster_data --- #
+    
+def test_format_cluster_data_splits_by_time_chaining():
+    """Tests that clusters are split using chaining logic (max 30 days gap)."""
+    data = [
+        # Group 1: Continuous chain (Jan 1 -> Jan 25 -> Feb 20). 
+        # Jan 1 to Jan 25 = 24 days (<=30) -> Linked
+        # Jan 25 to Feb 20 = 26 days (<=30) -> Linked
+        # Total span > 50 days, but chaining keeps them together.
+        {
+            "contributor_name": "Executive Alpha", "contributor_employer": "TechCorp", "contribution_receipt_amount": 100,
+            "contribution_receipt_date": "2025-01-01", "committee_id": "C999", "pdf_url": "u1",
+            "committee": {"name": "PAC A", "party_full": "DEM"}
+        },
+        {
+            "contributor_name": "Executive Beta", "contributor_employer": "TechCorp", "contribution_receipt_amount": 100,
+            "contribution_receipt_date": "2025-01-25", "committee_id": "C999", "pdf_url": "u2",
+            "committee": {"name": "PAC A", "party_full": "DEM"}
+        },
+        {
+            "contributor_name": "Executive Gamma", "contributor_employer": "TechCorp", "contribution_receipt_amount": 100,
+            "contribution_receipt_date": "2025-02-20", "committee_id": "C999", "pdf_url": "u3",
+            "committee": {"name": "PAC A", "party_full": "DEM"}
+        },
+        # Group 2: Break in chain (May 1 -> Jul 1). Gap > 30 days. Should be new cluster.
+        {
+            "contributor_name": "Executive Delta", "contributor_employer": "TechCorp", "contribution_receipt_amount": 100,
+            "contribution_receipt_date": "2025-05-01", "committee_id": "C999", "pdf_url": "u4",
+            "committee": {"name": "PAC A", "party_full": "DEM"}
+        },
+        {
+            "contributor_name": "Executive Epsilon", "contributor_employer": "TechCorp", "contribution_receipt_amount": 100,
+            "contribution_receipt_date": "2025-07-01", "committee_id": "C999", "pdf_url": "u5",
+            "committee": {"name": "PAC A", "party_full": "DEM"}
+        },
+        # Exec F makes Group 2 a valid cluster (min 2 donors)
+        {
+            "contributor_name": "Executive Zeta", "contributor_employer": "TechCorp", "contribution_receipt_amount": 100,
+            "contribution_receipt_date": "2025-07-05", "committee_id": "C999", "pdf_url": "u6",
+            "committee": {"name": "PAC A", "party_full": "DEM"}
+        }
+    ]
+    
+    result = format_cluster_data(data)
+    
+    # Expect 2 clusters:
+    # Cluster 1: Exec A, B, C (Chain works)
+    # Cluster 2: Exec D is orphaned (only 1 donor) -> dropped? 
+    # Wait, D is May 1. E is Jul 1 (61 days later).
+    # So D stands alone. D is 1 person -> Dropped.
+    # E and F are Jul 1 and Jul 5 -> Linked. 2 people -> Valid Cluster.
+    
+    # So expected result: Cluster 1 (A,B,C), Cluster 2 (E,F).
+    
+    assert len(result) == 2
+    
+    # Verify Cluster 1
+    c1 = next(c for c in result if c['donorCount'] == 3)
+    assert len(c1['contributions']) == 3
+    assert "Executive Alpha" in [x['donorName'] for x in c1['contributions']]
+    assert "Executive Gamma" in [x['donorName'] for x in c1['contributions']]
+    
+    # Verify Cluster 2
+    c2 = next(c for c in result if c['donorCount'] == 2)
+    assert len(c2['contributions']) == 2
+    assert "Executive Epsilon" in [x['donorName'] for x in c2['contributions']]
+    assert "Executive Zeta" in [x['donorName'] for x in c2['contributions']]
+    
+    # Verify D is missing
+    all_donors = []
+    for c in result:
+        all_donors.extend([x['donorName'] for x in c['contributions']])
+    assert "Executive Delta" not in all_donors
+
 
 def test_format_cluster_data_creates_valid_cluster():
     result = format_cluster_data(SAMPLE_INDIVIDUAL_CONTRIBUTIONS)
