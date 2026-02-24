@@ -19460,7 +19460,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-01-15",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-02-22",
       "name": "TEXANS FOR SENATOR JOHN CORNYN INC.",
       "organization_type": null,
       "organization_type_full": null,
@@ -36640,7 +36640,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-09-09",
-      "last_file_date": "2026-02-19",
+      "last_file_date": "2026-02-22",
       "name": "ELIZABETH PANNILL FLETCHER FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -79574,7 +79574,7 @@
     "receipt_type_desc": "CONTRIBUTION",
     "receipt_type_full": "CONTRIBUTION",
     "recipient_committee_designation": "J",
-    "recipient_committee_org_type": null,
+    "recipient_committee_org_type": "",
     "recipient_committee_type": "N",
     "report_type": "MY",
     "report_year": 2025,
@@ -81914,7 +81914,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -82040,7 +82040,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "MORENO VICTORY COMMITTEE",
+      "affiliated_committee_name": "TEAM MORENO",
       "candidate_ids": [
         "S4OH00192"
       ],
@@ -85291,7 +85291,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85417,7 +85417,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85543,7 +85543,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85669,7 +85669,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -90477,7 +90477,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-07-17",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-02-22",
       "name": "TEXAS DEMOCRATIC PARTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -168277,7 +168277,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-01-29",
-      "last_file_date": "2026-01-29",
+      "last_file_date": "2026-02-22",
       "name": "FRIENDS OF MARK WARNER",
       "organization_type": null,
       "organization_type_full": null,
@@ -168427,7 +168427,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-01-29",
-      "last_file_date": "2026-01-29",
+      "last_file_date": "2026-02-22",
       "name": "FRIENDS OF MARK WARNER",
       "organization_type": null,
       "organization_type_full": null,
@@ -170104,7 +170104,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
+      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -170245,7 +170245,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
+      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -170386,7 +170386,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
+      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
       "candidate_ids": [
         "S4IA00129"
       ],
