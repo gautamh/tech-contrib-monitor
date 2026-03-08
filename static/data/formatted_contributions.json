@@ -174,6 +174,52 @@
       ]
     },
     {
+      "recipientName": "ROUNDS FOR SENATE",
+      "recipientParty": "REPUBLICAN PARTY",
+      "isExtreme": false,
+      "totalAmount": 14000.0,
+      "donorCount": 2,
+      "employer": "GOOGLE",
+      "timeframe": "in the last week",
+      "contributions": [
+        {
+          "donorName": "FITZPATRICK, JENNIFER",
+          "donorInfo": "EXECUTIVE",
+          "amount": 3500.0,
+          "date": "2025-11-03",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601319795586298"
+        },
+        {
+          "donorName": "FITZPATRICK, JENNIFER",
+          "donorInfo": "EXECUTIVE",
+          "amount": 200.0,
+          "date": "2025-11-03",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601319795586298"
+        },
+        {
+          "donorName": "FITZPATRICK, JENNIFER",
+          "donorInfo": "EXECUTIVE",
+          "amount": 3300.0,
+          "date": "2025-11-03",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601319795586297"
+        },
+        {
+          "donorName": "OSTERLOH, RICK",
+          "donorInfo": "ENGINEERING",
+          "amount": 3500.0,
+          "date": "2025-10-31",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601319795586331"
+        },
+        {
+          "donorName": "OSTERLOH, RICK",
+          "donorInfo": "ENGINEERING",
+          "amount": 3500.0,
+          "date": "2025-10-31",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601319795586330"
+        }
+      ]
+    },
+    {
       "recipientName": "LOFGREN FOR CONGRESS",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
