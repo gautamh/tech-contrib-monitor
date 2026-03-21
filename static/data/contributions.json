@@ -6011,7 +6011,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "MAINE SENATE REPUBLICAN NOMINEE FUND -- SUSAN COLLINS",
+      "affiliated_committee_name": "COLLINS VICTORY COMMITTEE",
       "candidate_ids": [
         "S6ME00159"
       ],
@@ -10869,7 +10869,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HKR VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H4CA12055"
       ],
@@ -39009,7 +39009,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "MAINE SENATE REPUBLICAN NOMINEE FUND -- SUSAN COLLINS",
+      "affiliated_committee_name": "COLLINS VICTORY COMMITTEE",
       "candidate_ids": [
         "S6ME00159"
       ],
@@ -39590,8 +39590,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-12-29",
-      "last_file_date": "2026-02-20",
+      "last_f1_date": "2026-03-19",
+      "last_file_date": "2026-03-19",
       "name": "DCCC",
       "organization_type": null,
       "organization_type_full": null,
@@ -59190,7 +59190,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-02-12",
-      "last_file_date": "2026-03-12",
+      "last_file_date": "2026-03-17",
       "name": "LOFGREN FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -59273,7 +59273,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -59432,7 +59432,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-02-12",
-      "last_file_date": "2026-03-12",
+      "last_file_date": "2026-03-17",
       "name": "LOFGREN FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -59515,7 +59515,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -60419,7 +60419,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-02",
-      "last_file_date": "2026-03-12",
+      "last_file_date": "2026-03-15",
       "name": "WORKING FAMILIES PARTY PAC",
       "organization_type": null,
       "organization_type_full": null,
@@ -60673,7 +60673,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2021-07-19",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-19",
       "name": "WORKERS VOTE",
       "organization_type": null,
       "organization_type_full": null,
@@ -63272,7 +63272,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DNC STATE PARTY VICTORY FUND",
+      "affiliated_committee_name": "DOLLARS FOR DEMOCRATS",
       "candidate_ids": [],
       "city": "LITTLE ROCK",
       "committee_id": "C00024372",
@@ -63372,7 +63372,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-12-19",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-19",
       "name": "DEMOCRATIC PARTY OF ARKANSAS",
       "organization_type": null,
       "organization_type_full": null,
@@ -64316,7 +64316,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-09-26",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-19",
       "name": "STATE DEMOCRATIC EXECUTIVE COMMITTEE OF ALABAMA",
       "organization_type": null,
       "organization_type_full": null,
@@ -65990,7 +65990,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-11-05",
-      "last_file_date": "2026-03-04",
+      "last_file_date": "2026-03-16",
       "name": "DEMOCRATIC PARTY OF OREGON",
       "organization_type": null,
       "organization_type_full": null,
@@ -67260,7 +67260,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-07-14",
-      "last_file_date": "2026-03-13",
+      "last_file_date": "2026-03-19",
       "name": "314 ACTION FUND",
       "organization_type": null,
       "organization_type_full": null,
@@ -67411,7 +67411,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-04-17",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-17",
       "name": "NEW DEMOCRAT COALITION ACTION FUND",
       "organization_type": null,
       "organization_type_full": null,
@@ -67552,7 +67552,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-10-15",
-      "last_file_date": "2026-01-30",
+      "last_file_date": "2026-03-18",
       "name": "TED LIEU FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -67885,7 +67885,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-02-12",
-      "last_file_date": "2026-03-12",
+      "last_file_date": "2026-03-17",
       "name": "LOFGREN FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -69416,8 +69416,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-12-29",
-      "last_file_date": "2026-02-20",
+      "last_f1_date": "2026-03-19",
+      "last_file_date": "2026-03-19",
       "name": "DCCC",
       "organization_type": null,
       "organization_type_full": null,
@@ -70913,7 +70913,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-02-12",
-      "last_file_date": "2026-03-12",
+      "last_file_date": "2026-03-17",
       "name": "LOFGREN FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -81409,7 +81409,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "MIKE ROGERS VICTORY COMMITTEE",
+      "affiliated_committee_name": "ROGERS FOR MI SENATE REPUBLICAN NOMINEE FUND 2024",
       "candidate_ids": [
         "S4MI00595"
       ],
@@ -81535,7 +81535,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "CORNYN VICTORY COMMITTEE",
       "candidate_ids": [
         "S2WI00268",
         "S4WI00256"
@@ -81914,7 +81914,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -84913,7 +84913,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -85039,7 +85039,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -85165,7 +85165,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -85291,7 +85291,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85417,7 +85417,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85543,7 +85543,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85669,7 +85669,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -86788,7 +86788,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HKR VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H4CA12055"
       ],
@@ -86932,7 +86932,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HKR VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H4CA12055"
       ],
@@ -90673,7 +90673,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-09-26",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-19",
       "name": "STATE DEMOCRATIC EXECUTIVE COMMITTEE OF ALABAMA",
       "organization_type": null,
       "organization_type_full": null,
@@ -181557,7 +181557,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -186578,7 +186578,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -186772,7 +186772,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -186990,7 +186990,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -187184,7 +187184,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -187378,7 +187378,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -191625,7 +191625,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -191709,7 +191709,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "FIGHT BACK MIDWEST",
       "candidate_ids": [
         "S6MN00440"
       ],
@@ -191735,8 +191735,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-02-14",
-      "last_file_date": "2026-01-31",
+      "last_f1_date": "2026-03-17",
+      "last_file_date": "2026-03-17",
       "name": "PEGGY FLANAGAN FOR MINNESOTA",
       "organization_type": null,
       "organization_type_full": null,
@@ -191819,7 +191819,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-07-29",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-15",
       "name": "ACTBLUE",
       "organization_type": null,
       "organization_type_full": null,
@@ -191874,7 +191874,7 @@
     "receipt_type_desc": "EARMARKED CONTRIBUTION",
     "receipt_type_full": null,
     "recipient_committee_designation": "P",
-    "recipient_committee_org_type": null,
+    "recipient_committee_org_type": "",
     "recipient_committee_type": "S",
     "report_type": "YE",
     "report_year": 2025,
