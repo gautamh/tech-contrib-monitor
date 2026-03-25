@@ -79063,7 +79063,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-07-15",
-      "last_file_date": "2026-01-31",
+      "last_file_date": "2026-03-22",
       "name": "TEAM HAGERTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -79195,7 +79195,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-07-15",
-      "last_file_date": "2026-01-31",
+      "last_file_date": "2026-03-22",
       "name": "TEAM HAGERTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -81409,7 +81409,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ROGERS FOR MI SENATE REPUBLICAN NOMINEE FUND 2024",
+      "affiliated_committee_name": "MIKE ROGERS VICTORY COMMITTEE",
       "candidate_ids": [
         "S4MI00595"
       ],
@@ -81692,7 +81692,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-09-24",
-      "last_file_date": "2026-01-30",
+      "last_file_date": "2026-03-23",
       "name": "TIM SHEEHY FOR MONTANA",
       "organization_type": null,
       "organization_type_full": null,
@@ -81914,7 +81914,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "BATTLEFIELD FUND 2023",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -84343,7 +84343,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "HOGAN VICTORY FUND",
       "candidate_ids": [
         "S4MD00483"
       ],
@@ -84913,7 +84913,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -85039,7 +85039,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -85165,7 +85165,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -85291,7 +85291,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "BATTLEFIELD FUND 2023",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85417,7 +85417,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "BATTLEFIELD FUND 2023",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85543,7 +85543,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "BATTLEFIELD FUND 2023",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -85669,7 +85669,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "BATTLEFIELD FUND 2023",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -169429,7 +169429,7 @@
     "receipt_type_desc": "EARMARKED CONTRIBUTION",
     "receipt_type_full": null,
     "recipient_committee_designation": "P",
-    "recipient_committee_org_type": null,
+    "recipient_committee_org_type": "",
     "recipient_committee_type": "S",
     "report_type": "Q3",
     "report_year": 2025,
