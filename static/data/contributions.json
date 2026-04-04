@@ -39009,7 +39009,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "COLLINS VICTORY COMMITTEE",
+      "affiliated_committee_name": "MAINE SENATE REPUBLICAN NOMINEE FUND -- SUSAN COLLINS",
       "candidate_ids": [
         "S6ME00159"
       ],
@@ -110880,8 +110880,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2026-03-06",
-      "last_file_date": "2026-03-06",
+      "last_f1_date": "2026-04-02",
+      "last_file_date": "2026-04-02",
       "name": "GILLEN FOR NY",
       "organization_type": null,
       "organization_type_full": null,
@@ -116997,7 +116997,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DOLLARS FOR DEMOCRATS",
+      "affiliated_committee_name": "DNC STATE PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LITTLE ROCK",
       "committee_id": "C00024372",
@@ -117193,7 +117193,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DOLLARS FOR DEMOCRATS",
+      "affiliated_committee_name": "DNC STATE PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LITTLE ROCK",
       "committee_id": "C00024372",
@@ -119291,7 +119291,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "CONNOLLY VICTORY FUND",
+      "affiliated_committee_name": "KAINE ACTION FUND",
       "candidate_ids": [],
       "city": "RICHMOND",
       "committee_id": "C00155952",
@@ -119478,7 +119478,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "CONNOLLY VICTORY FUND",
+      "affiliated_committee_name": "KAINE ACTION FUND",
       "candidate_ids": [],
       "city": "RICHMOND",
       "committee_id": "C00155952",
@@ -120449,7 +120449,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DOLLARS FOR DEMOCRATS",
+      "affiliated_committee_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
       "candidate_ids": [],
       "city": "KANSAS CITY",
       "committee_id": "C00135558",
@@ -120639,7 +120639,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DOLLARS FOR DEMOCRATS",
+      "affiliated_committee_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
       "candidate_ids": [],
       "city": "KANSAS CITY",
       "committee_id": "C00135558",
@@ -129667,7 +129667,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-06-17",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-19",
       "name": "UTAH STATE DEMOCRATIC COMMITTEE",
       "organization_type": null,
       "organization_type_full": null,
@@ -129863,7 +129863,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-11-12",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-31",
       "name": "DEMOCRATIC PARTY OF WISCONSIN FEDERAL",
       "organization_type": null,
       "organization_type_full": null,
@@ -130056,7 +130056,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-05-20",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-20",
       "name": "NEW JERSEY DEMOCRATIC STATE COMMITTEE",
       "organization_type": null,
       "organization_type_full": null,
@@ -130237,7 +130237,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-09-08",
-      "last_file_date": "2026-02-20",
+      "last_file_date": "2026-03-20",
       "name": "DEMOCRATIC PARTY OF HAWAII",
       "organization_type": null,
       "organization_type_full": null,
@@ -170104,7 +170104,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -170245,7 +170245,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -170386,7 +170386,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -191486,7 +191486,7 @@
     "receipt_type_desc": "EARMARKED CONTRIBUTION",
     "receipt_type_full": null,
     "recipient_committee_designation": "P",
-    "recipient_committee_org_type": null,
+    "recipient_committee_org_type": "",
     "recipient_committee_type": "H",
     "report_type": "YE",
     "report_year": 2025,
