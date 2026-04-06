@@ -7574,7 +7574,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ROUNDS-SDGOP VICTORY FUND",
+      "affiliated_committee_name": "FISCHER-ROUNDS VICTORY COMMITTEE",
       "candidate_ids": [
         "S4SD00049"
       ],
@@ -10869,7 +10869,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HKR VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H4CA12055"
       ],
@@ -84343,7 +84343,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "HOGAN VICTORY FUND",
       "candidate_ids": [
         "S4MD00483"
       ],
@@ -119291,7 +119291,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "KAINE ACTION FUND",
+      "affiliated_committee_name": "CONNOLLY VICTORY FUND",
       "candidate_ids": [],
       "city": "RICHMOND",
       "committee_id": "C00155952",
@@ -119478,7 +119478,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "KAINE ACTION FUND",
+      "affiliated_committee_name": "CONNOLLY VICTORY FUND",
       "candidate_ids": [],
       "city": "RICHMOND",
       "committee_id": "C00155952",
@@ -121197,7 +121197,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HORSFORD VICTORY FUND 2020",
+      "affiliated_committee_name": "NV PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LAS VEGAS",
       "committee_id": "C00208991",
@@ -121378,7 +121378,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HORSFORD VICTORY FUND 2020",
+      "affiliated_committee_name": "NV PARTY VICTORY FUND",
       "candidate_ids": [],
       "city": "LAS VEGAS",
       "committee_id": "C00208991",
@@ -191317,12 +191317,12 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "SERVICE FIRST WOMEN'S VICTORY FUND",
+      "affiliated_committee_name": "GOODLANDER VICTORY FUND",
       "candidate_ids": [
         "H4NH02399",
         "P40019937"
       ],
-      "city": "NASHUA",
+      "city": "WASHINGTON",
       "committee_id": "C00878454",
       "committee_type": "H",
       "committee_type_full": "House",
@@ -191347,19 +191347,19 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-08-08",
-      "last_file_date": "2026-01-30",
+      "last_f1_date": "2026-04-03",
+      "last_file_date": "2026-04-03",
       "name": "MAGGIE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
       "party": "DEM",
       "party_full": "DEMOCRATIC PARTY",
-      "state": "NH",
-      "state_full": "New Hampshire",
-      "street_1": "131 DANIEL WEBSTER HWY",
-      "street_2": "#949",
+      "state": "DC",
+      "state_full": "District Of Columbia",
+      "street_1": "600 PENNSYLVANIA AVE SE",
+      "street_2": "UNIT 15180",
       "treasurer_name": "CALLAHAN, JIM",
-      "zip": "03060"
+      "zip": "20003"
     },
     "committee_id": "C00878454",
     "committee_name": null,
