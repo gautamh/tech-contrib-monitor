@@ -33,8 +33,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -197,8 +197,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -361,8 +361,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -525,8 +525,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -689,8 +689,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -853,8 +853,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -1017,8 +1017,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -1181,8 +1181,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -1345,8 +1345,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -1509,8 +1509,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -1673,8 +1673,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -1837,8 +1837,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -2001,8 +2001,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -2165,8 +2165,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -2329,8 +2329,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -11502,8 +11502,8 @@
       "committee_type_full": "House",
       "cycle": 2024,
       "cycles": [
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -11644,8 +11644,8 @@
       "committee_type_full": "House",
       "cycle": 2024,
       "cycles": [
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -11787,10 +11787,10 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2018,
         2020,
-        2022,
         2024,
+        2018,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -11865,8 +11865,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -11987,7 +11987,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "HKR VICTORY FUND",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H4CA12055"
       ],
@@ -12002,8 +12002,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -12160,8 +12160,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -12324,8 +12324,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -12488,8 +12488,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -12652,8 +12652,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -12816,8 +12816,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -12980,8 +12980,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -13144,8 +13144,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -13307,11 +13307,11 @@
         2012,
         2014,
         2016,
+        2024,
+        2026,
         2018,
         2020,
-        2022,
-        2024,
-        2026
+        2022
       ],
       "cycles_has_activity": [
         2008,
@@ -13359,7 +13359,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-15",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "GUTHRIE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -13470,11 +13470,11 @@
         2012,
         2014,
         2016,
+        2024,
+        2026,
         2018,
         2020,
-        2022,
-        2024,
-        2026
+        2022
       ],
       "cycles_has_activity": [
         2008,
@@ -13522,7 +13522,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-15",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "GUTHRIE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -13634,8 +13634,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -13875,6 +13875,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -13882,7 +13883,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -14113,6 +14113,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -14120,7 +14121,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -14273,11 +14273,11 @@
         2012,
         2014,
         2016,
+        2024,
+        2026,
         2018,
         2020,
-        2022,
-        2024,
-        2026
+        2022
       ],
       "cycles_has_activity": [
         2008,
@@ -14325,7 +14325,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-15",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "GUTHRIE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -14359,8 +14359,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -14505,8 +14505,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -14604,6 +14604,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -14611,7 +14612,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -14773,8 +14773,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -14872,6 +14872,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -14879,7 +14880,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -15033,8 +15033,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -15197,8 +15197,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -15361,8 +15361,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -15525,8 +15525,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -15689,8 +15689,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -15853,8 +15853,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -16014,9 +16014,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -16168,9 +16168,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -16322,9 +16322,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -16479,8 +16479,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -16643,8 +16643,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -16807,8 +16807,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -16971,8 +16971,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -17135,8 +17135,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -17299,8 +17299,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -17463,8 +17463,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -17627,8 +17627,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -17791,8 +17791,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -17955,8 +17955,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -18119,8 +18119,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -18283,8 +18283,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -18447,8 +18447,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -18611,8 +18611,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -18775,8 +18775,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -19018,8 +19018,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -19152,8 +19152,8 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2018,
         2020,
+        2018,
         2022,
         2024,
         2026
@@ -19231,6 +19231,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -19238,7 +19239,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -19392,11 +19392,11 @@
         2012,
         2014,
         2016,
-        2018,
-        2020,
-        2022,
         2024,
-        2026
+        2022,
+        2026,
+        2018,
+        2020
       ],
       "cycles_has_activity": [
         2006,
@@ -19480,8 +19480,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -19620,8 +19620,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -19707,6 +19707,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -19714,7 +19715,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -19866,9 +19866,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -20025,8 +20025,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -20189,8 +20189,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -20353,8 +20353,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -20517,8 +20517,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -20681,8 +20681,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -20845,8 +20845,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -21009,8 +21009,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -21173,8 +21173,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -21339,11 +21339,11 @@
         2012,
         2014,
         2016,
-        2018,
         2020,
         2022,
         2024,
-        2026
+        2026,
+        2018
       ],
       "cycles_has_activity": [
         2002,
@@ -21431,8 +21431,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -21569,8 +21569,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -21731,8 +21731,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -21893,10 +21893,10 @@
         2014,
         2016,
         2018,
-        2020,
-        2022,
         2024,
-        2026
+        2026,
+        2020,
+        2022
       ],
       "cycles_has_activity": [
         1998,
@@ -21989,6 +21989,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -21996,7 +21997,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -22144,12 +22144,12 @@
       "committee_type_full": "PAC - Nonqualified",
       "cycle": 2024,
       "cycles": [
-        2016,
-        2018,
-        2020,
         2022,
+        2016,
         2024,
-        2026
+        2026,
+        2020,
+        2018
       ],
       "cycles_has_activity": [
         2016,
@@ -22223,8 +22223,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -22361,8 +22361,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -22524,8 +22524,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -22570,7 +22570,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-12-03",
-      "last_file_date": "2026-04-15",
+      "last_file_date": "2026-05-07",
       "name": "JEFFRIES FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -22605,6 +22605,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -22612,7 +22613,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -22766,8 +22766,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -22930,8 +22930,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -23094,8 +23094,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -23258,8 +23258,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -23422,8 +23422,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -23581,8 +23581,8 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2018,
         2020,
+        2018,
         2022,
         2024,
         2026
@@ -23659,8 +23659,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -23874,6 +23874,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -23881,7 +23882,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -24037,8 +24037,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -24124,6 +24124,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -24131,7 +24132,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -24279,9 +24279,9 @@
       "committee_type_full": "Senate",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -24352,8 +24352,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -24484,9 +24484,9 @@
       "committee_type_full": "Senate",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -24557,8 +24557,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -24689,9 +24689,9 @@
       "committee_type_full": "Senate",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -24762,8 +24762,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -24900,8 +24900,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -25141,6 +25141,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -25148,7 +25149,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -25296,9 +25296,9 @@
       "committee_type_full": "House",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -25447,8 +25447,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -25613,8 +25613,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -25700,6 +25700,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -25707,7 +25708,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -25859,8 +25859,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -25937,8 +25937,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -26075,8 +26075,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -26322,6 +26322,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -26329,7 +26330,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -26483,8 +26483,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -26642,10 +26642,10 @@
       "committee_type_full": "Senate",
       "cycle": 2024,
       "cycles": [
-        2018,
         2020,
-        2022,
+        2018,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -26796,8 +26796,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -26960,8 +26960,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -27118,9 +27118,9 @@
       "committee_type_full": "House",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -27191,8 +27191,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -30437,8 +30437,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -30601,8 +30601,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -30765,8 +30765,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -30929,8 +30929,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -31093,8 +31093,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -31257,8 +31257,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -31421,8 +31421,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -31585,8 +31585,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -31749,8 +31749,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -31913,8 +31913,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -32077,8 +32077,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -32241,8 +32241,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -32405,8 +32405,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -32569,8 +32569,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -32733,8 +32733,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -32897,8 +32897,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -33061,8 +33061,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -33225,8 +33225,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -33389,8 +33389,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -33419,19 +33419,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -33553,8 +33553,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -33583,19 +33583,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -33717,8 +33717,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -33747,19 +33747,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -33881,8 +33881,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -33911,19 +33911,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -34045,8 +34045,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -34075,19 +34075,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -34209,8 +34209,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -34239,19 +34239,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -34373,8 +34373,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -34403,19 +34403,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -34537,8 +34537,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -34567,19 +34567,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -34701,8 +34701,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -34731,19 +34731,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -34865,8 +34865,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -34895,19 +34895,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -35029,8 +35029,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -35059,19 +35059,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -35193,8 +35193,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -35223,19 +35223,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -35357,8 +35357,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -35387,19 +35387,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -35521,8 +35521,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -35551,19 +35551,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -35685,8 +35685,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -35715,19 +35715,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -35849,8 +35849,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -35879,19 +35879,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -36013,8 +36013,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -36043,19 +36043,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -36177,8 +36177,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -36207,19 +36207,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -36341,8 +36341,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -36371,19 +36371,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -36505,8 +36505,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -36535,19 +36535,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -36669,8 +36669,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -36699,19 +36699,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -36833,8 +36833,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -36863,19 +36863,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -36997,8 +36997,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -37027,19 +37027,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -37161,8 +37161,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -37191,19 +37191,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -37325,8 +37325,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -37355,19 +37355,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -37489,8 +37489,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -37519,19 +37519,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -37653,8 +37653,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -37683,19 +37683,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -37817,8 +37817,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -37847,19 +37847,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -37981,8 +37981,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -38011,19 +38011,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -38145,8 +38145,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -38175,19 +38175,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -38309,8 +38309,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -38339,19 +38339,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -38473,8 +38473,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -38503,19 +38503,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -38909,8 +38909,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -38939,19 +38939,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -39073,8 +39073,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -39103,19 +39103,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -39237,8 +39237,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -39267,19 +39267,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -39401,8 +39401,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -39431,19 +39431,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -39565,8 +39565,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -39595,19 +39595,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -39729,8 +39729,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -39759,19 +39759,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -39889,8 +39889,8 @@
       "cycles": [
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -39907,19 +39907,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "MELISSA",
-      "designated_agent_last_name": "NISSEN",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": null,
       "designated_agent_middle_name": null,
-      "designated_agent_name": "NISSEN, MELISSA",
-      "designated_agent_phone_number": "2025446960",
+      "designated_agent_name": null,
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "600 PENNSYLVANIA AVE SE",
-      "designated_agent_street2": "#15180",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
+      "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20003",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "P",
       "designation_full": "Principal campaign committee",
       "filing_frequency": "Q",
@@ -40036,10 +40036,10 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2018,
         2020,
-        2022,
         2024,
+        2018,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -40080,7 +40080,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-24",
-      "last_file_date": "2026-05-04",
+      "last_file_date": "2026-05-08",
       "name": "BRIAN FITZPATRICK FOR ALL OF US",
       "organization_type": null,
       "organization_type_full": null,
@@ -40114,8 +40114,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -40252,8 +40252,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -40335,6 +40335,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -40342,7 +40343,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -40499,11 +40499,11 @@
         2012,
         2014,
         2016,
-        2018,
+        2024,
         2020,
         2022,
-        2024,
-        2026
+        2026,
+        2018
       ],
       "cycles_has_activity": [
         2000,
@@ -40594,6 +40594,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -40601,7 +40602,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -40750,10 +40750,10 @@
       "committee_type_full": "Senate",
       "cycle": 2024,
       "cycles": [
-        2018,
         2020,
-        2022,
+        2018,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -40906,11 +40906,11 @@
         2012,
         2014,
         2016,
-        2018,
         2020,
         2022,
         2024,
-        2026
+        2026,
+        2018
       ],
       "cycles_has_activity": [
         2002,
@@ -40999,6 +40999,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -41006,7 +41007,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -41155,8 +41155,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -41228,6 +41228,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -41235,7 +41236,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -41472,6 +41472,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -41479,7 +41480,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -41710,6 +41710,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -41717,7 +41718,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -41870,9 +41870,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -41952,6 +41952,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -41959,7 +41960,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -42178,6 +42178,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -42185,7 +42186,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -42339,11 +42339,11 @@
         2012,
         2014,
         2016,
-        2018,
-        2020,
-        2022,
         2024,
-        2026
+        2022,
+        2026,
+        2018,
+        2020
       ],
       "cycles_has_activity": [
         2008,
@@ -42426,6 +42426,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -42433,7 +42434,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -42571,7 +42571,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "COLLINS VICTORY COMMITTEE",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "S6ME00159"
       ],
@@ -42593,10 +42593,10 @@
         2014,
         2016,
         2018,
-        2020,
-        2022,
         2024,
-        2026
+        2026,
+        2020,
+        2022
       ],
       "cycles_has_activity": [
         1996,
@@ -42690,8 +42690,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -42841,10 +42841,10 @@
         2012,
         2014,
         2016,
-        2018,
-        2020,
-        2022,
         2024,
+        2020,
+        2018,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -42960,6 +42960,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -42967,7 +42968,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -43134,10 +43134,10 @@
         2012,
         2014,
         2016,
+        2024,
         2018,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -43253,6 +43253,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -43260,7 +43261,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -43410,8 +43410,8 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2018,
         2020,
+        2018,
         2022,
         2024,
         2026
@@ -43489,6 +43489,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -43496,7 +43497,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -43648,8 +43648,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -43727,6 +43727,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -43734,7 +43735,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -43881,8 +43881,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -44025,6 +44025,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -44032,7 +44033,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -44192,6 +44192,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -44199,7 +44200,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -44359,6 +44359,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -44366,7 +44367,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -44526,6 +44526,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -44533,7 +44534,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -44693,6 +44693,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -44700,7 +44701,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -45086,6 +45086,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -45093,7 +45094,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -45253,10 +45253,10 @@
         2014,
         2016,
         2018,
-        2020,
-        2022,
         2024,
-        2026
+        2026,
+        2020,
+        2022
       ],
       "cycles_has_activity": [
         1998,
@@ -45426,8 +45426,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -45456,19 +45456,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -45649,6 +45649,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -45656,7 +45657,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -45869,6 +45869,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -45876,7 +45877,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -46024,6 +46024,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -46031,7 +46032,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -46197,8 +46197,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -46227,19 +46227,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -46361,8 +46361,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -46391,19 +46391,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -46525,8 +46525,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -46555,19 +46555,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -46689,8 +46689,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -46719,19 +46719,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "JOHN",
-      "designated_agent_last_name": "BURCHETT",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": "NONE",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "BURCHETT, JOHN",
-      "designated_agent_phone_number": "2023461100",
+      "designated_agent_name": "NONE,",
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "25 MASSACHUSETTS AVE. NW, 9TH FLR",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20001",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -48132,8 +48132,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -48296,8 +48296,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -48460,8 +48460,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -48624,8 +48624,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -48788,8 +48788,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -48952,8 +48952,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -49116,8 +49116,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -49280,8 +49280,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -49444,8 +49444,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -49608,11 +49608,11 @@
         2012,
         2014,
         2016,
-        2018,
-        2020,
-        2022,
         2024,
-        2026
+        2022,
+        2026,
+        2018,
+        2020
       ],
       "cycles_has_activity": [
         2008,
@@ -49695,6 +49695,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -49702,7 +49703,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -49856,8 +49856,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -50020,8 +50020,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -50184,8 +50184,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -50348,8 +50348,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -50512,8 +50512,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -50676,8 +50676,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -50840,8 +50840,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -51004,8 +51004,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -51168,8 +51168,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -51332,8 +51332,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -51496,8 +51496,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -51660,8 +51660,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -51824,8 +51824,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -51988,8 +51988,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -52151,11 +52151,11 @@
         2012,
         2014,
         2016,
+        2024,
+        2026,
         2018,
         2020,
-        2022,
-        2024,
-        2026
+        2022
       ],
       "cycles_has_activity": [
         2008,
@@ -52203,7 +52203,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-15",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "GUTHRIE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -52237,8 +52237,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -52375,8 +52375,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -52539,8 +52539,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -52703,8 +52703,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -52867,8 +52867,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -53031,8 +53031,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -53195,8 +53195,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -53359,8 +53359,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -53523,8 +53523,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -53687,8 +53687,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -53851,8 +53851,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -54015,8 +54015,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -54179,8 +54179,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -54343,8 +54343,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -54507,8 +54507,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -54671,8 +54671,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -54835,8 +54835,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -54999,8 +54999,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -55163,8 +55163,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -55327,8 +55327,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -55491,8 +55491,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -55655,8 +55655,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -55819,8 +55819,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -55983,8 +55983,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -56147,8 +56147,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -56311,8 +56311,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -56475,8 +56475,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -56635,8 +56635,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -56799,8 +56799,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -56963,8 +56963,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -57127,8 +57127,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -57291,8 +57291,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -57455,8 +57455,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -57619,8 +57619,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -57783,8 +57783,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -57947,8 +57947,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -58111,8 +58111,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -58275,8 +58275,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -58439,8 +58439,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -58603,8 +58603,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -58767,8 +58767,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -58927,8 +58927,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -59087,8 +59087,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -59170,6 +59170,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -59177,7 +59178,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -59331,8 +59331,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -59414,6 +59414,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -59421,7 +59422,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -59575,8 +59575,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -59739,8 +59739,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -59903,8 +59903,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -60067,8 +60067,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -60231,8 +60231,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -60395,8 +60395,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -60559,8 +60559,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -60723,8 +60723,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -60887,8 +60887,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -61051,8 +61051,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -61215,8 +61215,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -61379,8 +61379,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -61543,8 +61543,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -61702,10 +61702,10 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2018,
         2020,
-        2022,
         2024,
+        2018,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -61780,8 +61780,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -61918,8 +61918,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -62082,8 +62082,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -62246,8 +62246,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -62410,8 +62410,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -62574,8 +62574,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -62738,8 +62738,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -62902,8 +62902,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -63074,8 +63074,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -63173,6 +63173,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -63180,7 +63181,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -63342,8 +63342,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -63441,6 +63441,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -63448,7 +63449,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -63602,8 +63602,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -63766,8 +63766,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -63930,8 +63930,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -64094,8 +64094,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -64258,8 +64258,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -77457,8 +77457,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -77621,8 +77621,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -77785,8 +77785,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -77949,8 +77949,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -78113,8 +78113,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -78277,8 +78277,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -78441,8 +78441,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -78605,8 +78605,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -78769,8 +78769,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -78933,8 +78933,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -79097,8 +79097,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -79261,8 +79261,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -79425,8 +79425,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -79589,8 +79589,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -79753,8 +79753,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -79917,8 +79917,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -80081,8 +80081,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -80245,8 +80245,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -80409,8 +80409,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -80573,8 +80573,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -80737,8 +80737,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -80901,8 +80901,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -81065,8 +81065,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -81229,8 +81229,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -81393,8 +81393,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -81557,8 +81557,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -81721,8 +81721,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -81885,8 +81885,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -82049,8 +82049,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -82213,8 +82213,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -82377,8 +82377,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -82541,8 +82541,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -82705,8 +82705,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -82869,8 +82869,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -83033,8 +83033,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -83197,8 +83197,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -83361,8 +83361,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -83525,8 +83525,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -83689,8 +83689,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -83853,8 +83853,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -84017,8 +84017,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -84181,8 +84181,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -84345,8 +84345,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -84509,8 +84509,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -84673,8 +84673,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -84837,8 +84837,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -85001,8 +85001,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -85165,8 +85165,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -85329,8 +85329,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -85493,8 +85493,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -85657,8 +85657,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -85821,8 +85821,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -85979,9 +85979,9 @@
       "committee_type_full": "Senate",
       "cycle": 2026,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -86124,9 +86124,9 @@
       "committee_type_full": "Senate",
       "cycle": 2026,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -86267,8 +86267,8 @@
       "committee_type_full": "PAC - Nonqualified",
       "cycle": 2026,
       "cycles": [
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -86337,8 +86337,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -86470,11 +86470,11 @@
       "cycle": 2026,
       "cycles": [
         2016,
-        2018,
         2020,
-        2022,
         2024,
-        2026
+        2018,
+        2026,
+        2022
       ],
       "cycles_has_activity": [
         2016,
@@ -86622,10 +86622,10 @@
       "cycles": [
         2014,
         2016,
-        2018,
-        2020,
-        2022,
         2024,
+        2020,
+        2018,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -86776,10 +86776,10 @@
       "cycles": [
         2014,
         2016,
-        2018,
-        2020,
-        2022,
         2024,
+        2020,
+        2018,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -86930,9 +86930,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -87085,11 +87085,11 @@
       "cycles": [
         2014,
         2016,
-        2018,
         2020,
-        2022,
         2024,
-        2026
+        2022,
+        2026,
+        2018
       ],
       "cycles_has_activity": [
         2014,
@@ -87239,11 +87239,11 @@
       "cycles": [
         2014,
         2016,
-        2018,
         2020,
-        2022,
         2024,
-        2026
+        2022,
+        2026,
+        2018
       ],
       "cycles_has_activity": [
         2014,
@@ -87404,9 +87404,9 @@
       "designated_agent_first_name": "J. SCOTT",
       "designated_agent_last_name": "JENNINGS",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "JENNINGS, J. SCOTT MR.",
+      "designated_agent_name": "JENNINGS, J. SCOTT",
       "designated_agent_phone_number": "5023659917",
-      "designated_agent_prefix": "MR.",
+      "designated_agent_prefix": null,
       "designated_agent_state": "KY",
       "designated_agent_street1": "9300 SHELBYVILLE RD, STE1005",
       "designated_agent_street2": null,
@@ -87456,8 +87456,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -87729,8 +87729,8 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2018,
         2020,
+        2018,
         2022,
         2024,
         2026
@@ -87773,7 +87773,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-05-05",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "BANKS FOR SENATE",
       "organization_type": null,
       "organization_type_full": null,
@@ -87964,8 +87964,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -88102,8 +88102,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -88133,10 +88133,10 @@
         2026
       ],
       "designated_agent_city": "SIOUX FALLS",
-      "designated_agent_first_name": "NICOLE TREASURER",
+      "designated_agent_first_name": "NICOLE DEP TREASURER",
       "designated_agent_last_name": "WEYERS",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "WEYERS, NICOLE TREASURER",
+      "designated_agent_name": "WEYERS, NICOLE DEP TREASURER",
       "designated_agent_phone_number": "6053237811",
       "designated_agent_prefix": null,
       "designated_agent_state": "SD",
@@ -88401,8 +88401,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -88489,8 +88489,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -88611,7 +88611,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "MIKE ROGERS VICTORY COMMITTEE",
+      "affiliated_committee_name": "ROGERS FOR MI SENATE REPUBLICAN NOMINEE FUND 2024",
       "candidate_ids": [
         "S4MI00595"
       ],
@@ -89596,8 +89596,8 @@
       "committee_type_full": "Senate",
       "cycle": 2024,
       "cycles": [
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -89739,11 +89739,11 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2018,
         2020,
-        2022,
         2024,
-        2026
+        2018,
+        2026,
+        2022
       ],
       "cycles_has_activity": [
         2016,
@@ -89817,8 +89817,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -89947,9 +89947,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90090,9 +90090,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90233,9 +90233,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90376,9 +90376,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90519,9 +90519,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90662,9 +90662,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90797,7 +90797,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "2024 SENATORS CLASSIC COMMITTEE",
       "candidate_ids": [
         "S6WY00068"
       ],
@@ -90812,10 +90812,10 @@
         2012,
         2014,
         2016,
+        2024,
         2018,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90898,8 +90898,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -91063,7 +91063,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-06",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "PETE RICKETTS FOR SENATE",
       "organization_type": null,
       "organization_type_full": null,
@@ -91188,9 +91188,9 @@
         2012,
         2014,
         2016,
+        2022,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -91271,8 +91271,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-12-17",
-      "last_file_date": "2026-05-04",
+      "last_f1_date": "2026-05-08",
+      "last_file_date": "2026-05-08",
       "name": "REPUBLICAN FEDERAL COMMITTEE OF PENNSYLVANIA",
       "organization_type": null,
       "organization_type_full": null,
@@ -91671,10 +91671,10 @@
         2014,
         2016,
         2018,
-        2020,
         2022,
         2024,
-        2026
+        2026,
+        2020
       ],
       "cycles_has_activity": [
         1982,
@@ -91748,7 +91748,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-05-29",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-06",
       "name": "REPUBLICAN PARTY OF TEXAS",
       "organization_type": null,
       "organization_type_full": null,
@@ -92149,9 +92149,9 @@
         2012,
         2014,
         2016,
+        2022,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -92232,8 +92232,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-12-17",
-      "last_file_date": "2026-05-04",
+      "last_f1_date": "2026-05-08",
+      "last_file_date": "2026-05-08",
       "name": "REPUBLICAN FEDERAL COMMITTEE OF PENNSYLVANIA",
       "organization_type": null,
       "organization_type_full": null,
@@ -93448,8 +93448,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -93591,8 +93591,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -93740,8 +93740,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -93897,8 +93897,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -94254,6 +94254,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -94261,7 +94262,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -94440,7 +94440,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-05-29",
-      "last_file_date": "2026-04-20",
+      "last_file_date": "2026-04-30",
       "name": "BOLD AMERICA",
       "organization_type": null,
       "organization_type_full": null,
@@ -94551,8 +94551,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -94708,8 +94708,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -94928,6 +94928,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -94935,7 +94936,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -95151,6 +95151,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -95158,7 +95159,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -95374,6 +95374,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -95381,7 +95382,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -97241,11 +97241,11 @@
         2012,
         2014,
         2016,
-        2018,
+        2024,
         2020,
         2022,
-        2024,
-        2026
+        2026,
+        2018
       ],
       "cycles_has_activity": [
         2000,
@@ -97607,9 +97607,9 @@
       "committee_type_full": "PAC - Nonqualified",
       "cycle": 2024,
       "cycles": [
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -97754,8 +97754,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -97900,8 +97900,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -98064,10 +98064,10 @@
         2014,
         2016,
         2018,
-        2020,
-        2022,
         2024,
-        2026
+        2020,
+        2026,
+        2022
       ],
       "cycles_has_activity": [
         1976,
@@ -98269,9 +98269,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -98469,9 +98469,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -98875,11 +98875,11 @@
         2012,
         2014,
         2016,
-        2018,
         2020,
-        2022,
         2024,
-        2026
+        2022,
+        2026,
+        2018
       ],
       "cycles_has_activity": [
         1994,
@@ -99064,9 +99064,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -99267,9 +99267,9 @@
         2014,
         2016,
         2018,
+        2024,
         2020,
         2022,
-        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -180674,6 +180674,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -180681,7 +180682,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -181864,8 +181864,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -182027,8 +182027,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -183006,9 +183006,9 @@
       "committee_type_full": "Senate",
       "cycle": 2026,
       "cycles": [
-        2020,
         2022,
         2024,
+        2020,
         2026
       ],
       "cycles_has_activity": [
@@ -183080,6 +183080,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -183087,7 +183088,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -183610,8 +183610,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -183827,8 +183827,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -183949,7 +183949,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -183963,8 +183963,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -184103,7 +184103,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -184117,8 +184117,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -184257,7 +184257,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -184271,8 +184271,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -184349,8 +184349,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -186413,11 +186413,11 @@
         2012,
         2014,
         2016,
+        2024,
+        2026,
         2018,
         2020,
-        2022,
-        2024,
-        2026
+        2022
       ],
       "cycles_has_activity": [
         2008,
@@ -186465,7 +186465,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-15",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "GUTHRIE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -186576,11 +186576,11 @@
         2012,
         2014,
         2016,
+        2024,
+        2026,
         2018,
         2020,
-        2022,
-        2024,
-        2026
+        2022
       ],
       "cycles_has_activity": [
         2008,
@@ -186628,7 +186628,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-15",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "GUTHRIE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -186739,11 +186739,11 @@
         2012,
         2014,
         2016,
+        2024,
+        2026,
         2018,
         2020,
-        2022,
-        2024,
-        2026
+        2022
       ],
       "cycles_has_activity": [
         2008,
@@ -186791,7 +186791,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-15",
-      "last_file_date": "2026-05-05",
+      "last_file_date": "2026-05-07",
       "name": "GUTHRIE FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -187508,8 +187508,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -187672,8 +187672,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -187836,8 +187836,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -188000,8 +188000,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -188164,8 +188164,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -188328,8 +188328,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -190116,8 +190116,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -190280,8 +190280,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -190444,8 +190444,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -190608,8 +190608,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -190772,8 +190772,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -190936,8 +190936,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -191691,8 +191691,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -191855,8 +191855,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -192019,8 +192019,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -192183,8 +192183,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -192347,8 +192347,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -192511,8 +192511,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -192675,8 +192675,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -192839,8 +192839,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -195968,6 +195968,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -195975,7 +195976,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -196913,8 +196913,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -197077,8 +197077,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -197241,8 +197241,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -197405,8 +197405,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -197569,8 +197569,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -197733,8 +197733,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -197897,8 +197897,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -198061,8 +198061,8 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -203086,6 +203086,7 @@
       "cycles": [
         2004,
         2006,
+        2022,
         2008,
         2010,
         2012,
@@ -203093,7 +203094,6 @@
         2016,
         2018,
         2020,
-        2022,
         2024,
         2026
       ],
@@ -204014,8 +204014,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -204231,8 +204231,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -207067,8 +207067,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
@@ -207263,8 +207263,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2022,
         2024,
+        2022,
         2026
       ],
       "cycles_has_activity": [
