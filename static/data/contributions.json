@@ -85979,9 +85979,9 @@
       "committee_type_full": "Senate",
       "cycle": 2026,
       "cycles": [
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -86124,9 +86124,9 @@
       "committee_type_full": "Senate",
       "cycle": 2026,
       "cycles": [
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -86267,8 +86267,8 @@
       "committee_type_full": "PAC - Nonqualified",
       "cycle": 2026,
       "cycles": [
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -86337,8 +86337,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -86470,11 +86470,11 @@
       "cycle": 2026,
       "cycles": [
         2016,
-        2020,
-        2024,
         2018,
-        2026,
-        2022
+        2020,
+        2022,
+        2024,
+        2026
       ],
       "cycles_has_activity": [
         2016,
@@ -86622,10 +86622,10 @@
       "cycles": [
         2014,
         2016,
-        2024,
-        2020,
         2018,
+        2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -86776,10 +86776,10 @@
       "cycles": [
         2014,
         2016,
-        2024,
-        2020,
         2018,
+        2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -86930,9 +86930,9 @@
         2014,
         2016,
         2018,
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -87085,11 +87085,11 @@
       "cycles": [
         2014,
         2016,
+        2018,
         2020,
-        2024,
         2022,
-        2026,
-        2018
+        2024,
+        2026
       ],
       "cycles_has_activity": [
         2014,
@@ -87239,11 +87239,11 @@
       "cycles": [
         2014,
         2016,
+        2018,
         2020,
-        2024,
         2022,
-        2026,
-        2018
+        2024,
+        2026
       ],
       "cycles_has_activity": [
         2014,
@@ -87456,8 +87456,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -87729,8 +87729,8 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2020,
         2018,
+        2020,
         2022,
         2024,
         2026
@@ -87964,8 +87964,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -88102,8 +88102,8 @@
         2016,
         2018,
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -88401,8 +88401,8 @@
         2016,
         2018,
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -88433,19 +88433,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "ORMOND BEACH",
+      "designated_agent_city": "MONROE",
       "designated_agent_first_name": "SAL",
       "designated_agent_last_name": "PURPURA",
       "designated_agent_middle_name": null,
       "designated_agent_name": "PURPURA, SAL",
       "designated_agent_phone_number": "7046681993",
       "designated_agent_prefix": null,
-      "designated_agent_state": "FL",
-      "designated_agent_street1": "478 STIRLING BRIDGE DRIVE",
+      "designated_agent_state": "NC",
+      "designated_agent_street1": "6334 PUMPERNICKEL LN",
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
       "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "32174",
+      "designated_agent_zip": "28110",
       "designation": "D",
       "designation_full": "Leadership PAC",
       "filing_frequency": "Q",
@@ -88489,8 +88489,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -88611,7 +88611,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ROGERS FOR MI SENATE REPUBLICAN NOMINEE FUND 2024",
+      "affiliated_committee_name": "MIKE ROGERS VICTORY COMMITTEE",
       "candidate_ids": [
         "S4MI00595"
       ],
@@ -89168,7 +89168,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -89596,8 +89596,8 @@
       "committee_type_full": "Senate",
       "cycle": 2024,
       "cycles": [
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -89739,11 +89739,11 @@
       "cycle": 2024,
       "cycles": [
         2016,
-        2020,
-        2024,
         2018,
-        2026,
-        2022
+        2020,
+        2022,
+        2024,
+        2026
       ],
       "cycles_has_activity": [
         2016,
@@ -89817,8 +89817,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -89947,9 +89947,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90090,9 +90090,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90233,9 +90233,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90376,9 +90376,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90519,9 +90519,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90662,9 +90662,9 @@
       "committee_type_full": "Super PAC (Independent Expenditure-Only)",
       "cycle": 2024,
       "cycles": [
-        2024,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90797,7 +90797,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "S6WY00068"
       ],
@@ -90812,10 +90812,10 @@
         2012,
         2014,
         2016,
-        2024,
         2018,
         2020,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -90898,8 +90898,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -91063,7 +91063,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-06",
-      "last_file_date": "2026-05-07",
+      "last_file_date": "2026-05-09",
       "name": "PETE RICKETTS FOR SENATE",
       "organization_type": null,
       "organization_type_full": null,
@@ -91188,9 +91188,9 @@
         2012,
         2014,
         2016,
-        2022,
         2018,
         2020,
+        2022,
         2024,
         2026
       ],
@@ -91671,10 +91671,10 @@
         2014,
         2016,
         2018,
+        2020,
         2022,
         2024,
-        2026,
-        2020
+        2026
       ],
       "cycles_has_activity": [
         1982,
@@ -92149,9 +92149,9 @@
         2012,
         2014,
         2016,
-        2022,
         2018,
         2020,
+        2022,
         2024,
         2026
       ],
@@ -92466,7 +92466,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "P40010977"
       ],
@@ -92605,7 +92605,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "P40010977"
       ],
@@ -92744,7 +92744,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "P40010977"
       ],
@@ -92883,7 +92883,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -93022,7 +93022,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -93161,7 +93161,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -93300,7 +93300,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -93448,8 +93448,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -93591,8 +93591,8 @@
       "cycle": 2024,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -97241,11 +97241,11 @@
         2012,
         2014,
         2016,
-        2024,
+        2018,
         2020,
         2022,
-        2026,
-        2018
+        2024,
+        2026
       ],
       "cycles_has_activity": [
         2000,
@@ -118794,7 +118794,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-10-15",
-      "last_file_date": "2026-04-15",
+      "last_file_date": "2026-05-10",
       "name": "WAHLS FOR IOWA",
       "organization_type": null,
       "organization_type_full": null,
@@ -119014,7 +119014,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-10-15",
-      "last_file_date": "2026-04-15",
+      "last_file_date": "2026-05-10",
       "name": "WAHLS FOR IOWA",
       "organization_type": null,
       "organization_type_full": null,
@@ -119476,7 +119476,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2024-11-14",
-      "last_file_date": "2026-04-15",
+      "last_file_date": "2026-05-06",
       "name": "LAUREN UNDERWOOD FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -120930,19 +120930,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "RYAN",
-      "designated_agent_last_name": "STITZLEIN",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": null,
       "designated_agent_middle_name": null,
-      "designated_agent_name": "STITZLEIN, RYAN",
-      "designated_agent_phone_number": "2029733000",
+      "designated_agent_name": null,
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "1725 EYE STREET, NW",
-      "designated_agent_street2": "SUITE 900",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
+      "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20006",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "B",
       "designation_full": "Lobbyist/Registrant PAC",
       "filing_frequency": "M",
@@ -125633,10 +125633,10 @@
         2026
       ],
       "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "TARYN",
-      "designated_agent_last_name": "VOGEL",
+      "designated_agent_first_name": "PATRICK",
+      "designated_agent_last_name": "STAUFFER",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "VOGEL, TARYN",
+      "designated_agent_name": "STAUFFER, PATRICK",
       "designated_agent_phone_number": "2028638000",
       "designated_agent_prefix": null,
       "designated_agent_state": "DC",
@@ -128202,7 +128202,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-07-17",
-      "last_file_date": "2026-04-30",
+      "last_file_date": "2026-05-05",
       "name": "TEXAS DEMOCRATIC PARTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -128408,7 +128408,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-07-17",
-      "last_file_date": "2026-04-30",
+      "last_file_date": "2026-05-05",
       "name": "TEXAS DEMOCRATIC PARTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -128604,8 +128604,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-08-20",
-      "last_file_date": "2026-04-29",
+      "last_f1_date": "2026-05-05",
+      "last_file_date": "2026-05-05",
       "name": "ARIZONA DEMOCRATIC PARTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -128801,8 +128801,8 @@
       "is_active": true,
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
-      "last_f1_date": "2025-08-20",
-      "last_file_date": "2026-04-29",
+      "last_f1_date": "2026-05-05",
+      "last_file_date": "2026-05-05",
       "name": "ARIZONA DEMOCRATIC PARTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -128980,19 +128980,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
+      "designated_agent_city": "RICHMOND",
       "designated_agent_first_name": "JOHN",
       "designated_agent_last_name": "ROBERSON",
       "designated_agent_middle_name": null,
       "designated_agent_name": "ROBERSON, JOHN",
-      "designated_agent_phone_number": "9195929826",
+      "designated_agent_phone_number": "2022407451",
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "122 C STREET NW",
-      "designated_agent_street2": "SUITE 360",
+      "designated_agent_state": "VA",
+      "designated_agent_street1": "919 E MAIN STREET",
+      "designated_agent_street2": "SUITE 2050",
       "designated_agent_suffix": null,
-      "designated_agent_title": null,
-      "designated_agent_zip": "20001",
+      "designated_agent_title": "ASSISTANT TREASURER",
+      "designated_agent_zip": "23219",
       "designation": "U",
       "designation_full": "Unauthorized",
       "filing_frequency": "M",
@@ -129180,19 +129180,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
+      "designated_agent_city": "RICHMOND",
       "designated_agent_first_name": "JOHN",
       "designated_agent_last_name": "ROBERSON",
       "designated_agent_middle_name": null,
       "designated_agent_name": "ROBERSON, JOHN",
-      "designated_agent_phone_number": "9195929826",
+      "designated_agent_phone_number": "2022407451",
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "122 C STREET NW",
-      "designated_agent_street2": "SUITE 360",
+      "designated_agent_state": "VA",
+      "designated_agent_street1": "919 E MAIN STREET",
+      "designated_agent_street2": "SUITE 2050",
       "designated_agent_suffix": null,
-      "designated_agent_title": null,
-      "designated_agent_zip": "20001",
+      "designated_agent_title": "ASSISTANT TREASURER",
+      "designated_agent_zip": "23219",
       "designation": "U",
       "designation_full": "Unauthorized",
       "filing_frequency": "M",
@@ -129829,7 +129829,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-01-29",
-      "last_file_date": "2026-05-03",
+      "last_file_date": "2026-05-05",
       "name": "NEBRASKA DEMOCRATIC PARTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -130038,7 +130038,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-01-29",
-      "last_file_date": "2026-05-03",
+      "last_file_date": "2026-05-05",
       "name": "NEBRASKA DEMOCRATIC PARTY",
       "organization_type": null,
       "organization_type_full": null,
@@ -132193,7 +132193,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-01-29",
-      "last_file_date": "2026-04-20",
+      "last_file_date": "2026-05-11",
       "name": "KENTUCKY STATE DEMOCRATIC CENTRAL EXECUTIVE COMMITTEE",
       "organization_type": null,
       "organization_type_full": null,
@@ -132402,7 +132402,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-01-29",
-      "last_file_date": "2026-04-20",
+      "last_file_date": "2026-05-11",
       "name": "KENTUCKY STATE DEMOCRATIC CENTRAL EXECUTIVE COMMITTEE",
       "organization_type": null,
       "organization_type_full": null,
@@ -134196,10 +134196,10 @@
         2026
       ],
       "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "TARYN",
-      "designated_agent_last_name": "VOGEL",
+      "designated_agent_first_name": "PATRICK",
+      "designated_agent_last_name": "STAUFFER",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "VOGEL, TARYN",
+      "designated_agent_name": "STAUFFER, PATRICK",
       "designated_agent_phone_number": "2028638000",
       "designated_agent_prefix": null,
       "designated_agent_state": "DC",
@@ -134405,10 +134405,10 @@
         2026
       ],
       "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "TARYN",
-      "designated_agent_last_name": "VOGEL",
+      "designated_agent_first_name": "PATRICK",
+      "designated_agent_last_name": "STAUFFER",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "VOGEL, TARYN",
+      "designated_agent_name": "STAUFFER, PATRICK",
       "designated_agent_phone_number": "2028638000",
       "designated_agent_prefix": null,
       "designated_agent_state": "DC",
@@ -134614,10 +134614,10 @@
         2026
       ],
       "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "TARYN",
-      "designated_agent_last_name": "VOGEL",
+      "designated_agent_first_name": "PATRICK",
+      "designated_agent_last_name": "STAUFFER",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "VOGEL, TARYN",
+      "designated_agent_name": "STAUFFER, PATRICK",
       "designated_agent_phone_number": "2028638000",
       "designated_agent_prefix": null,
       "designated_agent_state": "DC",
@@ -136553,7 +136553,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2025-08-19",
-      "last_file_date": "2026-04-15",
+      "last_file_date": "2026-05-11",
       "name": "FRIENDS OF SHERROD BROWN",
       "organization_type": null,
       "organization_type_full": null,
@@ -207067,8 +207067,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
@@ -207263,8 +207263,8 @@
       "cycle": 2026,
       "cycles": [
         2020,
-        2024,
         2022,
+        2024,
         2026
       ],
       "cycles_has_activity": [
