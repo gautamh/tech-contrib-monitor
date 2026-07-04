@@ -226,8 +226,9 @@ def main():
         raise ValueError("FEC_API_KEY environment variable not set. Please create a .env file.")
         
     analyzer = FECContributionAnalyzer(api_key)
+    # Fetch contributions from 2023 through 2028 (next couple of years)
     start_date="01/01/2023"
-    end_date="12/31/2025"
+    end_date="12/31/2028"
     
     # --- Fetch and save individual contributions ---
     output_path = os.path.join(os.path.dirname(__file__), '..', 'static', 'data', 'contributions.json')
