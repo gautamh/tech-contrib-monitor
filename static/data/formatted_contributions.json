@@ -401,6 +401,38 @@
       ]
     },
     {
+      "recipientName": "HICKENLOOPER FOR COLORADO",
+      "recipientParty": "DEMOCRATIC PARTY",
+      "isExtreme": false,
+      "totalAmount": 8000.0,
+      "donorCount": 2,
+      "employer": "MICROSOFT CORPORATION",
+      "timeframe": "in the last week",
+      "contributions": [
+        {
+          "donorName": "SMITH, BRADFORD",
+          "donorInfo": "ATTORNEY",
+          "amount": 3500.0,
+          "date": "2026-05-07",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870792011"
+        },
+        {
+          "donorName": "SMITH, BRADFORD",
+          "donorInfo": "ATTORNEY",
+          "amount": 3500.0,
+          "date": "2026-05-07",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870792010"
+        },
+        {
+          "donorName": "PALMER, JON",
+          "donorInfo": "ATTORNEY",
+          "amount": 1000.0,
+          "date": "2026-05-05",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870791623"
+        }
+      ]
+    },
+    {
       "recipientName": "JASON SMITH FOR CONGRESS",
       "recipientParty": "REPUBLICAN PARTY",
       "isExtreme": false,
