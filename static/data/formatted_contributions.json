@@ -344,6 +344,31 @@
       ]
     },
     {
+      "recipientName": "TED LIEU VICTORY FUND",
+      "recipientParty": "",
+      "isExtreme": false,
+      "totalAmount": 10500.0,
+      "donorCount": 2,
+      "employer": "GOOGLE",
+      "timeframe": "in the last week",
+      "contributions": [
+        {
+          "donorName": "ASHKENAZI, ANAT",
+          "donorInfo": "FINANCE",
+          "amount": 3500.0,
+          "date": "2026-06-13",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607159890102860"
+        },
+        {
+          "donorName": "FITZPATRICK, JENNIFER",
+          "donorInfo": "VP",
+          "amount": 7000.0,
+          "date": "2026-06-11",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607159890102863"
+        }
+      ]
+    },
+    {
       "recipientName": "NEW DEMOCRAT COALITION ACTION FUND",
       "recipientParty": "",
       "isExtreme": false,
@@ -643,6 +668,31 @@
           "amount": 3300.0,
           "date": "2024-10-11",
           "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202504299757953718"
+        }
+      ]
+    },
+    {
+      "recipientName": "BLUE MOMENTUM PAC",
+      "recipientParty": "",
+      "isExtreme": false,
+      "totalAmount": 5250.0,
+      "donorCount": 2,
+      "employer": "GOOGLE",
+      "timeframe": "in the last week",
+      "contributions": [
+        {
+          "donorName": "ASHKENAZI, ANAT",
+          "donorInfo": "FINANCE",
+          "amount": 1750.0,
+          "date": "2026-06-13",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607159890100096"
+        },
+        {
+          "donorName": "FITZPATRICK, JENNIFER",
+          "donorInfo": "VP",
+          "amount": 3500.0,
+          "date": "2026-06-11",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607159890100098"
         }
       ]
     },
