@@ -672,6 +672,31 @@
       ]
     },
     {
+      "recipientName": "TED LIEU FOR CONGRESS",
+      "recipientParty": "DEMOCRATIC PARTY",
+      "isExtreme": false,
+      "totalAmount": 5250.0,
+      "donorCount": 2,
+      "employer": "GOOGLE",
+      "timeframe": "in the last week",
+      "contributions": [
+        {
+          "donorName": "ASHKENAZI, ANAT",
+          "donorInfo": "FINANCE",
+          "amount": 1750.0,
+          "date": "2026-06-13",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607159890098663"
+        },
+        {
+          "donorName": "FITZPATRICK, JENNIFER",
+          "donorInfo": "VP",
+          "amount": 3500.0,
+          "date": "2026-06-11",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607159890098665"
+        }
+      ]
+    },
+    {
       "recipientName": "BLUE MOMENTUM PAC",
       "recipientParty": "",
       "isExtreme": false,
