@@ -1065,6 +1065,14 @@
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890999865"
     },
     {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "DSCC",
+      "amount": 15000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-26",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919750"
+    },
+    {
       "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
       "recipientName": "GABE VASQUEZ FOR CONGRESS",
       "amount": 1000.0,
@@ -1295,6 +1303,294 @@
       "recipientParty": "",
       "date": "2026-06-25",
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607179890875478"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "I GOT YOUR BACK PAC",
+      "amount": 2500.0,
+      "recipientParty": "",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919760"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "SMART SOLUTIONS PAC",
+      "amount": 2500.0,
+      "recipientParty": "",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919759"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "CAPITO FOR WEST VIRGINIA",
+      "amount": 1000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919759"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "LANDSMAN FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919759"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "FRIENDS OF JOHN BARRASSO",
+      "amount": 1000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919758"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "LOU CORREA FOR CONGRESS",
+      "amount": 2000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919758"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "GABE AMO FOR CONGRESS",
+      "amount": 3000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919758"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "MCCLELLAN FOR CONGRESS",
+      "amount": 1500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919757"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "FRIENDS FOR GREGORY MEEKS",
+      "amount": 2000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919757"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "JOSH FOR JERSEY",
+      "amount": 1500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919757"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "JIM JORDAN FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919756"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "GUY FOR CONGRESS",
+      "amount": 1500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919756"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "TED BUDD FOR SENATE",
+      "amount": 1500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919756"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "VINCE FONG FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919755"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "ROBIN KELLY FOR CONGRESS",
+      "amount": 500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919755"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "NEVADANS FOR STEVEN HORSFORD",
+      "amount": 1500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919755"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "LICCARDO FOR CONGRESS",
+      "amount": 2000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919754"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "FOUSHEE FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919754"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "BILIRAKIS FOR CONGRESS",
+      "amount": 2000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919754"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "BLAKE MOORE FOR CONGRESS",
+      "amount": 500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919753"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "TROY CARTER FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919753"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "DARREN SOTO FOR CONGRESS",
+      "amount": 1500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919753"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "FRIENDS FOR GREGORY MEEKS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919752"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "CAPITO FOR WEST VIRGINIA",
+      "amount": 1500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919752"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "DARREN SOTO FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919752"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "JEFFRIES FOR CONGRESS",
+      "amount": 3000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919751"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "MOODY FOR FLORIDA",
+      "amount": 1500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919751"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "CLARKE FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919751"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+      "amount": 500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919750"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "KATHERINE CLARK FOR CONGRESS",
+      "amount": 2000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919750"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "KEVIN MULLIN FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919749"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "TED CRUZ FOR SENATE",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919749"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "PETE RICKETTS FOR SENATE",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919749"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "DELBENE FOR CONGRESS",
+      "amount": 2000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919748"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "MCCLELLAN FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919748"
+    },
+    {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "BALDERSON FOR CONGRESS",
+      "amount": 2000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-06-23",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607209890919748"
     },
     {
       "donorName": "GOOGLE LLC NETPAC",
@@ -2623,230 +2919,6 @@
       "recipientParty": "DEMOCRATIC PARTY",
       "date": "2025-12-23",
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202602189834756865"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "TIM SHEEHY FOR MONTANA",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-11-19",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202512199793573129"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "TIM SHEEHY FOR MONTANA",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-11-19",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202512199793573129"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "TROY CARTER FOR CONGRESS",
-      "amount": 3000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686724"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "TIM SHEEHY FOR MONTANA",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686724"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "STEIL FOR WISCONSIN, INC.",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686724"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "REPUBLICAN MAJORITY FUND",
-      "amount": 1500.0,
-      "recipientParty": "",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686723"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "MOODY FOR FLORIDA",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686723"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "MIKE JOHNSON FOR LOUISIANA",
-      "amount": 4500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686723"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "MCCLELLAN FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686722"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
-      "amount": 2500.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686722"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "LATTA FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686722"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "KEVIN KILEY FOR CONGRESS",
-      "amount": 1500.0,
-      "recipientParty": "OTHER",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686721"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "KATHERINE CLARK FOR CONGRESS",
-      "amount": 1500.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686721"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "HUDSON FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686721"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "HOUCHIN FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686720"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "GALLEGO FOR ARIZONA",
-      "amount": 2500.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686720"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "GABE AMO FOR CONGRESS",
-      "amount": 3000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686720"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "FRY FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686719"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "FRIENDS OF TODD YOUNG, INC.",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686719"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "FRIENDS OF JOHN BARRASSO",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686719"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "FEDORCHAK FOR ND",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686718"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "DR JOHN JOYCE FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686718"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "DARRELL ISSA FOR CONGRESS",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686718"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "COMER FOR CONGRESS",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686717"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "CHRIS COONS FOR DELAWARE",
-      "amount": 2500.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686717"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "BERNIE MORENO FOR SENATE",
-      "amount": 2500.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2025-09-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202510209791686717"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "JASMINE FOR US",
-      "amount": 500.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2025-08-25",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202509159790060456"
-    },
-    {
-      "donorName": "META PLATFORMS, INC. PAC",
-      "recipientName": "WILD AND WONDERFUL PAC",
-      "amount": 1000.0,
-      "recipientParty": "",
-      "date": "2025-06-26",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202507189763625763"
     }
   ]
 }
