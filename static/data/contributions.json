@@ -11987,7 +11987,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "HKR VICTORY FUND",
       "candidate_ids": [
         "H4CA12055"
       ],
@@ -39907,19 +39907,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "WASHINGTON",
-      "designated_agent_first_name": "MELISSA",
-      "designated_agent_last_name": "NISSEN",
+      "designated_agent_city": null,
+      "designated_agent_first_name": null,
+      "designated_agent_last_name": null,
       "designated_agent_middle_name": null,
-      "designated_agent_name": "NISSEN, MELISSA",
-      "designated_agent_phone_number": "2025446960",
+      "designated_agent_name": null,
+      "designated_agent_phone_number": null,
       "designated_agent_prefix": null,
-      "designated_agent_state": "DC",
-      "designated_agent_street1": "600 PENNSYLVANIA AVE SE",
-      "designated_agent_street2": "#15180",
+      "designated_agent_state": null,
+      "designated_agent_street1": null,
+      "designated_agent_street2": null,
       "designated_agent_suffix": null,
-      "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "20003",
+      "designated_agent_title": null,
+      "designated_agent_zip": null,
       "designation": "P",
       "designation_full": "Principal campaign committee",
       "filing_frequency": "Q",
@@ -87404,9 +87404,9 @@
       "designated_agent_first_name": "J. SCOTT",
       "designated_agent_last_name": "JENNINGS",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "JENNINGS, J. SCOTT",
+      "designated_agent_name": "JENNINGS, J. SCOTT MR.",
       "designated_agent_phone_number": "5023659917",
-      "designated_agent_prefix": null,
+      "designated_agent_prefix": "MR.",
       "designated_agent_state": "KY",
       "designated_agent_street1": "9300 SHELBYVILLE RD, STE1005",
       "designated_agent_street2": null,
@@ -88433,19 +88433,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": "ORMOND BEACH",
+      "designated_agent_city": "MONROE",
       "designated_agent_first_name": "SAL",
       "designated_agent_last_name": "PURPURA",
       "designated_agent_middle_name": null,
       "designated_agent_name": "PURPURA, SAL",
       "designated_agent_phone_number": "7046681993",
       "designated_agent_prefix": null,
-      "designated_agent_state": "FL",
-      "designated_agent_street1": "478 STIRLING BRIDGE DRIVE",
+      "designated_agent_state": "NC",
+      "designated_agent_street1": "6334 PUMPERNICKEL LN",
       "designated_agent_street2": null,
       "designated_agent_suffix": null,
       "designated_agent_title": "ASSISTANT TREASURER",
-      "designated_agent_zip": "32174",
+      "designated_agent_zip": "28110",
       "designation": "D",
       "designation_full": "Leadership PAC",
       "filing_frequency": "Q",
@@ -89168,7 +89168,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -89307,7 +89307,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "TEAM MORENO",
+      "affiliated_committee_name": "MORENO VICTORY COMMITTEE",
       "candidate_ids": [
         "S4OH00192"
       ],
@@ -90797,7 +90797,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "2024 SENATORS CLASSIC COMMITTEE",
       "candidate_ids": [
         "S6WY00068"
       ],
@@ -92466,7 +92466,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -92605,7 +92605,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -92744,7 +92744,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "TEAM STAND FOR AMERICA",
       "candidate_ids": [
         "P40010977"
       ],
@@ -92883,7 +92883,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -93022,7 +93022,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -93161,7 +93161,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -93300,7 +93300,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2024 THUNE REPUBLICAN SENATE VICTORY",
+      "affiliated_committee_name": "2024 REPUBLICAN SENATE VICTORY",
       "candidate_ids": [
         "S2PA00661"
       ],
@@ -140955,7 +140955,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "NONE",
+      "affiliated_committee_name": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
       "candidate_ids": [
         "H2IL10068"
       ],
@@ -148274,7 +148274,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "DEMOCRATIC LEADERSHIP 2022",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "H2NY06116"
       ],
@@ -148335,7 +148335,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-07-10",
-      "last_file_date": "2026-07-15",
+      "last_file_date": "2026-08-17",
       "name": "GRACE FOR NEW YORK",
       "organization_type": null,
       "organization_type_full": null,
@@ -149472,7 +149472,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-05-27",
-      "last_file_date": "2026-08-15",
+      "last_file_date": "2026-08-16",
       "name": "DEBBIE WASSERMAN SCHULTZ FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -183949,7 +183949,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -184103,7 +184103,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -184257,7 +184257,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -206153,7 +206153,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-05-27",
-      "last_file_date": "2026-08-15",
+      "last_file_date": "2026-08-16",
       "name": "DEBBIE WASSERMAN SCHULTZ FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -222468,7 +222468,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-04-02",
-      "last_file_date": "2026-07-15",
+      "last_file_date": "2026-08-17",
       "name": "ROB FOR PA",
       "organization_type": null,
       "organization_type_full": null,
@@ -222535,7 +222535,7 @@
     "receipt_type_desc": "MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN",
     "receipt_type_full": null,
     "recipient_committee_designation": "P",
-    "recipient_committee_org_type": null,
+    "recipient_committee_org_type": "",
     "recipient_committee_type": "H",
     "report_type": "12P",
     "report_year": 2026,
@@ -225937,7 +225937,7 @@
       "last_cycle_has_activity": 2026,
       "last_cycle_has_financial": 2026,
       "last_f1_date": "2026-08-04",
-      "last_file_date": "2026-08-15",
+      "last_file_date": "2026-08-16",
       "name": "CASTOR FOR CONGRESS",
       "organization_type": null,
       "organization_type_full": null,
@@ -262678,19 +262678,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": null,
-      "designated_agent_first_name": null,
-      "designated_agent_last_name": null,
+      "designated_agent_city": "WASHINGTON",
+      "designated_agent_first_name": "JOSIE",
+      "designated_agent_last_name": "OLSEN",
       "designated_agent_middle_name": null,
-      "designated_agent_name": null,
-      "designated_agent_phone_number": null,
+      "designated_agent_name": "OLSEN, JOSIE",
+      "designated_agent_phone_number": "2022407451",
       "designated_agent_prefix": null,
-      "designated_agent_state": null,
-      "designated_agent_street1": null,
-      "designated_agent_street2": null,
+      "designated_agent_state": "DC",
+      "designated_agent_street1": "1030 15TH ST NW",
+      "designated_agent_street2": "BOX 404",
       "designated_agent_suffix": null,
       "designated_agent_title": null,
-      "designated_agent_zip": null,
+      "designated_agent_zip": "20005",
       "designation": "P",
       "designation_full": "Principal campaign committee",
       "filing_frequency": "Q",
