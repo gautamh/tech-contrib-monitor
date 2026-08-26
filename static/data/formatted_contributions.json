@@ -977,6 +977,38 @@
   ],
   "pacContributions": [
     {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "JOHNSON LEADERSHIP FUND",
+      "amount": 30000.0,
+      "recipientParty": "",
+      "date": "2026-07-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202608199899581727"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "LUZ RIVAS FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-07-14",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202608199899581728"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "CITIZENS TO ELECT RICK LARSEN",
+      "amount": 2500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-07-14",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202608199899581727"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "AMERILUV 2026",
+      "amount": 10000.0,
+      "recipientParty": "",
+      "date": "2026-07-14",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202608199899581727"
+    },
+    {
       "donorName": "GOOGLE LLC NETPAC",
       "recipientName": "NIKEMA FOR CONGRESS, INC",
       "amount": 2000.0,
