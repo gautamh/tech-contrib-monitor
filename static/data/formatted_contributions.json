@@ -1129,6 +1129,14 @@
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202608209899759961"
     },
     {
+      "donorName": "META PLATFORMS, INC. PAC",
+      "recipientName": "BALDERSON FOR CONGRESS",
+      "amount": 2000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-07-22",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202608209899633729"
+    },
+    {
       "donorName": "GOOGLE LLC NETPAC",
       "recipientName": "LARSON FOR CONGRESS",
       "amount": 1000.0,
