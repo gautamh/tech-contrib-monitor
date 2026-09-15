@@ -497,6 +497,45 @@
       ]
     },
     {
+      "recipientName": "CHRIS PAPPAS FOR SENATE",
+      "recipientParty": "DEMOCRATIC PARTY",
+      "isExtreme": false,
+      "totalAmount": 7025.0,
+      "donorCount": 2,
+      "employer": "MICROSOFT",
+      "timeframe": "over 36 days",
+      "contributions": [
+        {
+          "donorName": "SCOTT, JAMES KEVIN",
+          "donorInfo": "CTO",
+          "amount": 12.5,
+          "date": "2026-04-23",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607229894410132"
+        },
+        {
+          "donorName": "SCOTT, JAMES KEVIN",
+          "donorInfo": "CTO",
+          "amount": 12.5,
+          "date": "2026-04-09",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607229894412436"
+        },
+        {
+          "donorName": "SCOTT, KEVIN",
+          "donorInfo": "CTO",
+          "amount": 3500.0,
+          "date": "2026-03-18",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607159890139367"
+        },
+        {
+          "donorName": "SCOTT, KEVIN",
+          "donorInfo": "CTO",
+          "amount": 3500.0,
+          "date": "2026-03-18",
+          "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202607159890139364"
+        }
+      ]
+    },
+    {
       "recipientName": "MARTIN HEINRICH FOR SENATE",
       "recipientParty": "DEMOCRATIC PARTY",
       "isExtreme": false,
