@@ -1016,6 +1016,150 @@
   ],
   "pacContributions": [
     {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "WESTERMAN FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297020"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "VOTE BAUMGARTNER FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297020"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "VINCE FONG FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297020"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "STEIL FOR WISCONSIN, INC.",
+      "amount": 5000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297019"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "SCOTT FITZGERALD FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297019"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "MARK ALFORD FOR CONGRESS, INC.",
+      "amount": 3000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297018"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "LASTING INVESTMENTS STRENGTHENING AMERICA PAC",
+      "amount": 5000.0,
+      "recipientParty": "",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297018"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "LALOTA FOR CONGRESS",
+      "amount": 1000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297017"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "FRIENDS OF BENNIE THOMPSON",
+      "amount": 2500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297017"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "FEDORCHAK FOR ND",
+      "amount": 5000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297017"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "CAROL FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297016"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "BRIAN FITZPATRICK FOR ALL OF US",
+      "amount": 5000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297015"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "BRAD KNOTT FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-31",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297015"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "MAST FOR CONGRESS",
+      "amount": 5000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-13",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297019"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "MAST FOR CONGRESS",
+      "amount": 5000.0,
+      "recipientParty": "REPUBLICAN PARTY",
+      "date": "2026-08-13",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297018"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "CASTOR FOR CONGRESS",
+      "amount": 2500.0,
+      "recipientParty": "DEMOCRATIC PARTY",
+      "date": "2026-08-13",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297016"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "ENTERTAINMENT SOFTWARE ASSOCIATION PAC (ESA PAC)",
+      "amount": 5000.0,
+      "recipientParty": "",
+      "date": "2026-08-04",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297016"
+    },
+    {
+      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
+      "recipientName": "BSA BUSINESS SOFTWARE ALLIANCE, INC. PAC (BSA PAC)",
+      "amount": 5000.0,
+      "recipientParty": "",
+      "date": "2026-08-04",
+      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904297015"
+    },
+    {
       "donorName": "GOOGLE LLC NETPAC",
       "recipientName": "MATT VAN EPPS FOR CONGRESS",
       "amount": 2500.0,
@@ -2504,78 +2648,6 @@
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870718919"
     },
     {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "DEBORAH ROSS FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2026-05-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870718919"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "COMMITTEE TO RE-ELECT HENRY HANK JOHNSON",
-      "amount": 1000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2026-05-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870718918"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "CLARKE FOR CONGRESS",
-      "amount": 1500.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2026-05-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870718918"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
-      "amount": 5000.0,
-      "recipientParty": "",
-      "date": "2026-05-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870718918"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "BONAMICI FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2026-05-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870718917"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "ADRIANO ESPAILLAT FOR CONGRESS",
-      "amount": 1500.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2026-05-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870718917"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "ADAM SMITH FOR CONGRESS COMMITTEE",
-      "amount": 2500.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2026-05-20",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202606189870718917"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "REPUBLICAN NATIONAL COMMITTEE",
-      "amount": 15000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2026-04-09",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202605199867007625"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
-      "amount": 15000.0,
-      "recipientParty": "DEMOCRATIC PARTY",
-      "date": "2026-04-09",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202605199867007625"
-    },
-    {
       "donorName": "META PLATFORMS, INC. PAC",
       "recipientName": "WICKER FOR SENATE",
       "amount": 1500.0,
@@ -2710,22 +2782,6 @@
       "recipientParty": "REPUBLICAN PARTY",
       "date": "2026-03-31",
       "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202604179863168090"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "RON ESTES FOR CONGRESS",
-      "amount": 1000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2026-03-27",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202604209863242169"
-    },
-    {
-      "donorName": "MICROSOFT CORPORATION STAKEHOLDERS VOLUNTARY PAC - MSVPAC",
-      "recipientName": "MEUSER FOR CONGRESS",
-      "amount": 5000.0,
-      "recipientParty": "REPUBLICAN PARTY",
-      "date": "2026-03-27",
-      "fecUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202604209863242167"
     },
     {
       "donorName": "META PLATFORMS, INC. PAC",
