@@ -88133,10 +88133,10 @@
         2026
       ],
       "designated_agent_city": "SIOUX FALLS",
-      "designated_agent_first_name": "NICOLE TREASURER",
+      "designated_agent_first_name": "NICOLE DEP TREASURER",
       "designated_agent_last_name": "WEYERS",
       "designated_agent_middle_name": null,
-      "designated_agent_name": "WEYERS, NICOLE TREASURER",
+      "designated_agent_name": "WEYERS, NICOLE DEP TREASURER",
       "designated_agent_phone_number": "6053237811",
       "designated_agent_prefix": null,
       "designated_agent_state": "SD",
@@ -88611,7 +88611,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "ROGERS FOR MI SENATE REPUBLICAN NOMINEE FUND 2024",
+      "affiliated_committee_name": "MIKE ROGERS VICTORY COMMITTEE",
       "candidate_ids": [
         "S4MI00595"
       ],
@@ -88750,7 +88750,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "CORNYN VICTORY COMMITTEE",
+      "affiliated_committee_name": "NONE",
       "candidate_ids": [
         "S2WI00268",
         "S4WI00256"
@@ -183949,7 +183949,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -184103,7 +184103,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -184257,7 +184257,7 @@
     "candidate_prefix": null,
     "candidate_suffix": null,
     "committee": {
-      "affiliated_committee_name": "2025 SENATORS CLASSIC COMMITTEE",
+      "affiliated_committee_name": "ERNST HAGERTY VICTORY",
       "candidate_ids": [
         "S4IA00129"
       ],
@@ -262678,19 +262678,19 @@
         2024,
         2026
       ],
-      "designated_agent_city": null,
-      "designated_agent_first_name": null,
-      "designated_agent_last_name": null,
+      "designated_agent_city": "WASHINGTON",
+      "designated_agent_first_name": "JOSIE",
+      "designated_agent_last_name": "OLSEN",
       "designated_agent_middle_name": null,
-      "designated_agent_name": null,
-      "designated_agent_phone_number": null,
+      "designated_agent_name": "OLSEN, JOSIE",
+      "designated_agent_phone_number": "2022407451",
       "designated_agent_prefix": null,
-      "designated_agent_state": null,
-      "designated_agent_street1": null,
-      "designated_agent_street2": null,
+      "designated_agent_state": "DC",
+      "designated_agent_street1": "1030 15TH ST NW",
+      "designated_agent_street2": "BOX 404",
       "designated_agent_suffix": null,
       "designated_agent_title": null,
-      "designated_agent_zip": null,
+      "designated_agent_zip": "20005",
       "designation": "P",
       "designation_full": "Principal campaign committee",
       "filing_frequency": "Q",
